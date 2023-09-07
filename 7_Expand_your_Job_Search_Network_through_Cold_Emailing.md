@@ -31,7 +31,7 @@ Here are some potential cold email situations.
 
 #### Finding Potential Contacts
 
-[LinkedIn](linkedin.com): Search the company on LinkedIn and find their company page. In the menu items to the left, click on _People_. You can then search employees at the company based on title or name.
+[LinkedIn](https://linkedin.com): Search the company on LinkedIn and find their company page. In the menu items to the left, click on _People_. You can then search employees at the company based on title or name.
 
 [Hunter.io](https://hunter.io/): Work emails tend to follow the same pattern throughout the same company and can be easy to guess if you know a name. Hunter is a Chrome extension that helps with the guesswork. To use it, go to a company website and click on the hunter icon in the browser. If an email is listed on the website, hunter will display it. If you supply Hunter a name, it will provide a best guess answer for that person's email.
 
