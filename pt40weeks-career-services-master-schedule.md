@@ -1,4 +1,4 @@
-While it’s vital to learn how to code if you want to be a software developer, finding your first job can be a challenge. Over the years, we’ve identified processes and behaviors that tend to make the difference between a graduate being successful or not. To this end, alongside the coding curriculum you’ll be going through during the program, there is also a career services curriculum. The same expectations and deadlines will apply to both types of assignments. 
+While it's vital to learn how to code if you want to be a software developer, finding your first job can be a challenge. Over the years, we’ve identified processes and behaviors that tend to make the difference between a graduate being successful or not. To this end, alongside the coding curriculum you’ll be going through during the program, there is also a career services curriculum. The same expectations and deadlines will apply to both types of assignments. 
 
 Your advisor will send out an email with the specific dates when different pieces of the career services curriculum will occur, but here is a broad overview of what you can expect. 
 
@@ -6,7 +6,7 @@ Your advisor will send out an email with the specific dates when different piece
 You will have time in class to create or update your LinkedIn profile to set you up for success in the tech industry. 
 
 **Weeks 8-10: LinkedIn Profile Reviews**
-You’ll meet with your cohort’s advisor to go over your LinkedIn profile. 
+You’ll meet with your cohort's advisor to go over your LinkedIn profile. 
 
 **Week 16: Resume and Cover Letter Day in Class**
 You will have a day of in-class time this week dedicated to writing a cover letter and resume, cleaning up your GitHub portfolio, and practicing interview questions. 

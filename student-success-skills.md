@@ -48,7 +48,7 @@ You can find the **part-time** career services assignment schedule here:
 Each assignment will have the objectives laid out clearly in Epicenter. Review the objectives prior to starting the assignment. Knowing exactly what is expected for each project will help you to make sure you have achieved each piece that instructors and advisors will be grading on. Then, use the objectives like a checklist before you submit your project to double check that you have met all of the requirements. 
 
 * Pay close attention to details! The more attention you pay to the details of the assignment now, the less likely it is you’ll have to fix something later. This saves your future self time and effort! 
-*  **Note:** all career services coursework and objectives are available under the **Internship class** in Epicenter, not the current coding module. It’s good practice to check this page regularly! Each assignment will have the objectives laid out clearly in Epicenter.
+*  **Note:** all career services coursework and objectives are available under the **Internship class** in Epicenter, not the current coding module. It's good practice to check this page regularly! Each assignment will have the objectives laid out clearly in Epicenter.
 
 ### Incorporating Teacher and Advisor Feedback 
 
@@ -82,14 +82,14 @@ We find that students are most successful long-term when they build good habits 
 Learning and working remotely can be really convenient and flexible, but there are some challenges that come with it too. If you haven’t worked or studied remotely before, it can be difficult to maintain a healthy work-life balance at first. Here are some tips and tricks to help you adjust to remote learning at Epicodus: 
 
 * As much as space allows, try to create a space for yourself that is just reserved for work.
-* If you have a separate room to work in, that’s amazing! However,  you can also pick a specific corner of your room, a specific chair, or whatever is available that helps you create some mental separation between “work” and “home”. 
+* If you have a separate room to work in, that's amazing! However,  you can also pick a specific corner of your room, a specific chair, or whatever is available that helps you create some mental separation between “work” and “home”. 
 * Have a space where you can speak and listen while pair programming, without too much background noise.  
 * Try to minimize distractions as much as you can. This isn’t always possible with kids, pets, partners, and housemates, but do your best to carve out an intentional space for work. 
-* Set boundaries around what is work-time and what is down-time. Even though you will need to study outside of class, it’s still important to give yourself structure for that time and to maintain a healthy work-life balance. 
+* Set boundaries around what is work-time and what is down-time. Even though you will need to study outside of class, it's still important to give yourself structure for that time and to maintain a healthy work-life balance. 
 * Make your workspace pleasant! Keep it fairly tidy. Make sure the things you need are easily accessible. Little things like being near a window or having house plants nearby can brighten up your day, too. 
 * Take breaks. Every 20 or 30 minutes, take a quick 5 minute break to get up, move around, and take care of yourself. 
-* Practice good remote communication skills.  When we’re not all in the same building it’s easy to lose track of each other and things can fall through the cracks. Communicate promptly and regularly with your pair, your dev group, instructors, and advisors. 
-* As much as possible, create a routine like you’re actually getting up and coming in to work. Some of you will likely have remote jobs after you graduate, so it’s great to get into these habits now. It can be nice to work some self care into your morning routine, too.
-* Use your blur tool whenever you have to appear on video and there’s something in your background that wouldn’t feel appropriate in an office setting.  This can be things like laundry, shared spaces, art or photography that feels more personal than you are comfortable with sharing, etc. This helps create a bit of distance and discretion when we’re working in a way that allows us to see into each other’s living spaces. 
+* Practice good remote communication skills.  When we’re not all in the same building it's easy to lose track of each other and things can fall through the cracks. Communicate promptly and regularly with your pair, your dev group, instructors, and advisors. 
+* As much as possible, create a routine like you’re actually getting up and coming in to work. Some of you will likely have remote jobs after you graduate, so it's great to get into these habits now. It can be nice to work some self care into your morning routine, too.
+* Use your blur tool whenever you have to appear on video and there's something in your background that wouldn’t feel appropriate in an office setting.  This can be things like laundry, shared spaces, art or photography that feels more personal than you are comfortable with sharing, etc. This helps create a bit of distance and discretion when we’re working in a way that allows us to see into each other's living spaces. 
 * We dress casually at Epicodus, but don’t wear anything you wouldn’t feel comfortable wearing to an in-person class.  Keep in mind that getting dressed for the day as though you were headed to work can have a positive impact on your mental state. 
-* It’s fine to have snacks and drinks while on camera when you’re not speaking, but  please refrain from smoking, vaping, or drinking alcohol on video chat as this would not be appropriate in a workplace setting. 
+* It's fine to have snacks and drinks while on camera when you’re not speaking, but  please refrain from smoking, vaping, or drinking alcohol on video chat as this would not be appropriate in a workplace setting. 

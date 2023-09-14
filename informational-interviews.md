@@ -3,7 +3,7 @@
 
 ### What is an informational interview?
 
-An informational interview is a 20 – 30 minute meeting to help you learn about the real-life experience of someone working at a company, position, or industry that you are interested in.  It’s _not_ a job interview, but it can be a great way to build out your network in a relatively low-pressure environment. This is a safe environment to ask lots of questions! 
+An informational interview is a 20 – 30 minute meeting to help you learn about the real-life experience of someone working at a company, position, or industry that you are interested in.  It's _not_ a job interview, but it can be a great way to build out your network in a relatively low-pressure environment. This is a safe environment to ask lots of questions! 
 
 * Usually done one-on-one, with the interviewee doing most of the talking.
 * Allows you to build relationships in the industry.
@@ -46,7 +46,7 @@ linkedin.com/jiaqili |  206-999-9999 | jiaqi@epicodus.com | https://github.com/J
 
 First, do your homework by researching the person, company, or role,  and develop a list of questions. 
 
-* It’s okay if you don’t get to all of them (the conversation may flow naturally towards one subject or another), but this gives you a starting point. 
+* It's okay if you don’t get to all of them (the conversation may flow naturally towards one subject or another), but this gives you a starting point. 
 * Personalize at least 3 – 5 questions specific to the person / company. 
 * Dress up for the occasion, like you would for a regular job interview. Be professional, polite, and mindful of their time. As with other types of networking, use this as an opportunity to build a relationship, rather than ask for a job. After the interview, make sure you connect on LinkedIn if you haven’t already, and _always_ send a thank you note! 
 

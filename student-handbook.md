@@ -145,11 +145,11 @@ The terms "pairing up" and "pairing down" simply compare where each person is at
 
 Please refrain from making value judgments about your peers (or yourself!) based on your perceived difference in skill sets. When you are pairing up or down, stay focused on learning and respectful collaboration. Both pairs should take initiative to switch who is driving regularly and engage each other with questions about problem solving. 
 
-It’s important to work with a wide variety of people, including people at your same level of understanding. If you always pair down, you won't push your limits. If you always pair up, you'll find that even if you think you understand a concept, you won't be able to implement it yourself. If you have a couple days in a row where your pairs haven't been well-matched, talk with a teacher. Overall, you should expect that you will regularly pair up and pair down throughout the program.
+It's important to work with a wide variety of people, including people at your same level of understanding. If you always pair down, you won't push your limits. If you always pair up, you'll find that even if you think you understand a concept, you won't be able to implement it yourself. If you have a couple days in a row where your pairs haven't been well-matched, talk with a teacher. Overall, you should expect that you will regularly pair up and pair down throughout the program.
 
-Less frequently, pairing can be difficult because of different learning styles or personality conflicts. Take some time to talk to your pair about your learning style before you start: do you take a lot of notes, talk things through before starting, or explore lots of tangents? Finding out about your pair's style and discussing what to do if you have different approaches or priorities can help you avoid conflicts later. If you do end up in a situation where you're feeling frustrated or uncomfortable, your pair is probably feeling that way too. Take a deep breath, take a break if you need to, and then talk about it with them. It's tough, but it's better than suffering through the day: talking about it will relieve the tension. Ask a teacher if you need help having that conversation. Remember that everybody will have difficult pairs, especially at first. But the experience is worth it. It’s an extremely valuable skill to be able to work effectively with a wide array of people. Having this skill will make you more prepared to contribute as a member of a team at your internship or your next job in tech.
+Less frequently, pairing can be difficult because of different learning styles or personality conflicts. Take some time to talk to your pair about your learning style before you start: do you take a lot of notes, talk things through before starting, or explore lots of tangents? Finding out about your pair's style and discussing what to do if you have different approaches or priorities can help you avoid conflicts later. If you do end up in a situation where you're feeling frustrated or uncomfortable, your pair is probably feeling that way too. Take a deep breath, take a break if you need to, and then talk about it with them. It's tough, but it's better than suffering through the day: talking about it will relieve the tension. Ask a teacher if you need help having that conversation. Remember that everybody will have difficult pairs, especially at first. But the experience is worth it. It's an extremely valuable skill to be able to work effectively with a wide array of people. Having this skill will make you more prepared to contribute as a member of a team at your internship or your next job in tech.
 
-Pairing is a requirement of attending Epicodus. If there’s an odd number of students, form a group of three. If you aren't able to pair for some other reason, notify your teacher at the beginning of class. Working solo counts as being absent from class, and the attendance policy applies regardless of whether you miss class by not showing up or by not pairing and participating fully.
+Pairing is a requirement of attending Epicodus. If there's an odd number of students, form a group of three. If you aren't able to pair for some other reason, notify your teacher at the beginning of class. Working solo counts as being absent from class, and the attendance policy applies regardless of whether you miss class by not showing up or by not pairing and participating fully.
 
 Until the end of the class, when we'll work on larger projects, you'll switch pairs every day. Finding pairs can be awkward, especially at first. It's fine to just jump in, introduce yourself, and then get started. To make finding pairs easier, every course section we assign you to a development team (dev team) of about eight students to work and check in with. Every class session, you'll find a new pair from your dev team to work with.
 
@@ -201,9 +201,9 @@ You must submit your project by the specified deadline. There are three deadline
     *  Due at 8 am on Monday for full-time students.
     *  Due at 9 am on Sunday for part-time students. 
 
-Once you are passing a project, there’s nothing more required of you. You can tell whether you’ve passed or failed a project by your feedback on Epicenter. 
+Once you are passing a project, there's nothing more required of you. You can tell whether you’ve passed or failed a project by your feedback on Epicenter. 
 
-If you do not meet the objectives on your initial submission, you'll need to resubmit your project. It’s commonplace for students to do a resubmission and the feedback will direct you on what’s missing. Keep in mind that you do not have to wait until the resubmission deadline to turn in your project — we welcome you to turn in resubmissions early.
+If you do not meet the objectives on your initial submission, you'll need to resubmit your project. It's commonplace for students to do a resubmission and the feedback will direct you on what's missing. Keep in mind that you do not have to wait until the resubmission deadline to turn in your project — we welcome you to turn in resubmissions early.
 
 If your project is not passing all objectives by the resubmission deadline, 10 days after the project was assigned, you'll be given an Academic Warning and you will have one additional week to meet all objectives on your project by the final deadline.
 
@@ -335,7 +335,7 @@ Full-time students agree to be removed from the ISA if they:
 
 *  Are given an Academic Warning more than once.
 *  Miss more than ten (10) days of class.
-*  Violate Epicodus Inc’s Code of Conduct once.
+*  Violate Epicodus Inc's Code of Conduct once.
 
 Part-time students agree to be removed from the ISA if they:
 
@@ -426,7 +426,7 @@ During your time at Epicodus, there will be a series of workshops facilitated by
 
 ## [Lessons and Reflections](#lessons-and-reflections)
 
-Occasionally, throughout the program, there will be an additional DEI lesson on a topic related to either the classroom or the tech industry. For each DEI lesson, there is a corresponding reflective assignment in which we give you a prompt and ask you to write a short, reflective response to it. There’s no length requirement for these reflections. Rather, the goal is to give you an opportunity to reflect and engage with important DEI topics by yourself — so, write as little or as much as you feel inspired to. 
+Occasionally, throughout the program, there will be an additional DEI lesson on a topic related to either the classroom or the tech industry. For each DEI lesson, there is a corresponding reflective assignment in which we give you a prompt and ask you to write a short, reflective response to it. There's no length requirement for these reflections. Rather, the goal is to give you an opportunity to reflect and engage with important DEI topics by yourself — so, write as little or as much as you feel inspired to. 
 
 ## [Staff Support](#staff-support)
 
@@ -446,7 +446,7 @@ If you are attending classes in person you will need keycards. In order to be is
 * Is a JPEG file of at least 50 KB and no more than 2 MB
 * Is a full face head shot
 * Has a solid white or off-white background with even lighting
-* Is similar to a driver’s license or passport photo
+* Is similar to a driver's license or passport photo
 * Does not include props or items that obscure the face or head like hats or sunglasses
 
 **Keycards**
@@ -652,12 +652,12 @@ Sometimes Epicodus students can experience mental health challenges. This could 
 * [Veterans Crisis Line](https://www.veteranscrisisline.net/)
 * [National Sexual Assault Hotline](https://www.rainn.org/about-national-sexual-assault-telephone-hotline)
 * [Call to Safety](https://calltosafety.org)
-Formerly Portland Women’s Crisis Line, for domestic and sexual violence
+Formerly Portland Women's Crisis Line, for domestic and sexual violence
 * [NAMI Oregon](https://namior.org/resources/)
 Resources and phone numbers for mental health crises, housing, legal aid, family services, and more. 
 * [Crisis Connections(Seattle)](https://www.crisisconnections.org/24-hour-crisis-line/)
 * [Crisis Text Line](https://www.crisistextline.org/) 
-* [DAWN (Domestic Abuse Women’s Network) (Seattle)](https://www.dawnrising.org/)
+* [DAWN (Domestic Abuse Women's Network) (Seattle)](https://www.dawnrising.org/)
 * [King County Sexual Assault Resource Center (Seattle)](https://www.kcsarc.org/)
 * [NAMI Washington](https://www.namiwa.org/index.php/resources)
 
