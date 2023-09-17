@@ -20,7 +20,7 @@ code_reviews:
     always_visible: true
   details:
     - title: LinkedIn Review
-      filename: https://github.com/epicodus-classroom/internship/blob/main/linkedin_review.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/linkedin_review.md
       objectives:
       - "Does your profile include a recent photo of you?"
       - "Does your tagline reflect what you are doing now?"
@@ -39,7 +39,7 @@ code_reviews:
       - "Is your LinkedIn profile otherwise polished and presentable?"
     - title: Mock Interview
       submissions_not_required: true
-      filename: https://github.com/epicodus-classroom/internship/blob/main/mock_interview.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/mock_interview.md
       objectives:
       - "Did you have your 'story' together of why you wanted to get into programming and what skills you bring from your previous work?"
       - "Did you use positive wording that highlights your abilities?"
@@ -49,7 +49,7 @@ code_reviews:
       - "Did you ask 2-3 effective questions?"
       - "Was the interview otherwise polished and prepared?"
     - title: Resume Review
-      filename: https://github.com/epicodus-classroom/internship/blob/main/resume_review.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/resume_review.md
       objectives:
       - "Do you include a brief summary that communicates your career transition and goals?"
       - "Do you have a skills section that lists relevant technical and non-technical skills?"
@@ -66,7 +66,7 @@ code_reviews:
       - "Did you include the link below? (You can upload it to Google Drive as a doc or PDF)"
       - "Have you updated sharing permissions to allow your advisor to leave comments in an editable Google Doc (or PDF saved to Google Drive with commenting permissions)?"
     - title: Cover Letter Review
-      filename: https://github.com/epicodus-classroom/internship/blob/main/cover_letter_review.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/cover_letter_review.md
       objectives:
       - "Does it tell why you are interested in the position and/or company? Be able to show that you've done some research, and can speak to why you're applying there specifically."
       - "Does it state the position you are applying for?"
@@ -81,11 +81,11 @@ code_reviews:
       - "Have you updated sharing permissions to allow your advisor to leave comments in an editable Google Doc (or PDF saved to Google Drive with commenting permissions)?"
     - title: Sign Internship Agreement
       submissions_not_required: true
-      filename: https://github.com/epicodus-classroom/internship/blob/main/sign_internship_agreement.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/sign_internship_agreement.md
       objectives:
       - "Did you sign the [internship agreement](https://epicenter.epicodus.com/signatures/student_internship_agreement/new)?"
     - title: Indeed Resume
-      filename: https://github.com/epicodus-classroom/internship/blob/main/indeed_resume.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/indeed_resume.md
       objectives:
       - "Do you include a brief summary that communicates your career transition and goals?"
       - "Do you have a skills section that lists relevant technical and non-technical skills?"
@@ -96,37 +96,37 @@ code_reviews:
       - "Has Epicodus been added to your Education section?"
       - "Did you submit your Indeed resume link to this code review?"
     - title: Applying for Jobs 1
-      filename: https://github.com/epicodus-classroom/internship/blob/main/week_16_job_application.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/week_16_job_application.md
       objectives:
       - "Did you add the URL to the job posting you applied to to your spreadsheet?"
       - "Did you share links to your resume and cover letter that are viewable to your advisor(s)?"
       - "Are your cover letter and resume targeted to the company you applied to?"
     - title: Applying for Jobs 2
-      filename: https://github.com/epicodus-classroom/internship/blob/main/week_17_job_application.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/week_17_job_application.md
       objectives:
       - "Are your cover letter and resume targeted to the company you applied to?"
       - "Did you add the URL to the job posting you applied to to your spreadsheet?"
       - "Did you share links to your resume and cover letter that are viewable to your advisor(s)?"
     - title: Applying for Jobs 3
-      filename: https://github.com/epicodus-classroom/internship/blob/main/week_18_job_application.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/week_18_job_application.md
       objectives:
       - "Are your cover letter and resume targeted to the company you applied to?"
       - "Did you add the URL to the job posting you applied to to your spreadsheet?"
       - "Did you share links to your resume and cover letter that are viewable to your advisor(s)?"
     - title: Applying for Jobs 4
-      filename: https://github.com/epicodus-classroom/internship/blob/main/week_19_job_applications.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/week_19_job_applications.md
       objectives:
       - "Did you add the URLs/Job descriptions to the job postings you applied to?"
       - "Did you create a targeted resume and share a link to it in your job search spreadsheet?"
       - "Did you create a company specific cover letter and share a link to it in your job search spreadsheet?"
     - title: Planning Your Time After Epicodus
-      filename: https://github.com/epicodus-classroom/internship/blob/main/job_search_bootcamp.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/job_search_bootcamp.md
       objectives:
       - "Did you submit your job search spreadsheet in the submission box of this code review?"
       - "Did you apply to 5 jobs this week with a targeted cover letter and resume?"
       - "Did you submit your job search and goal planning form to your advisor?"
     - title: Internship Completion
       submissions_not_required: true
-      filename: https://github.com/epicodus-classroom/internship/blob/main/internship_completion.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/internship_completion.md
       objectives:
       - "Completed Internship"
