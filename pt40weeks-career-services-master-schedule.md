@@ -1,4 +1,4 @@
-While it's vital to learn how to code if you want to be a software developer, finding your first job can be a challenge. Over the years, we’ve identified processes and behaviors that tend to make the difference between a graduate being successful or not. To this end, alongside the coding curriculum you’ll be going through during the program, there is also a career services curriculum. The same expectations and deadlines will apply to both types of assignments. 
+While it's vital to learn how to code if you want to be a software developer, finding your first job can be a challenge. Over the years, we've identified processes and behaviors that tend to make the difference between a graduate being successful or not. To this end, alongside the coding curriculum you'll be going through during the program, there is also a career services curriculum. The same expectations and deadlines will apply to both types of assignments. 
 
 Your advisor will send out an email with the specific dates when different pieces of the career services curriculum will occur, but here is a broad overview of what you can expect. 
 
@@ -6,7 +6,7 @@ Your advisor will send out an email with the specific dates when different piece
 You will have time in class to create or update your LinkedIn profile to set you up for success in the tech industry. 
 
 **Weeks 8-10: LinkedIn Profile Reviews**
-You’ll meet with your cohort's advisor to go over your LinkedIn profile. 
+You'll meet with your cohort's advisor to go over your LinkedIn profile. 
 
 **Week 16: Resume and Cover Letter Day in Class**
 You will have a day of in-class time this week dedicated to writing a cover letter and resume, cleaning up your GitHub portfolio, and practicing interview questions. 
@@ -32,7 +32,7 @@ This will be the first week where you will have time to apply for jobs in class.
 During these weeks, there will be a second round of mock interviews to help everyone get ready for internships and their job hunt. 
 
 **Week 33: Job Applications 2**
-Now that you have had some practice, applying for jobs should come a little bit easier. Again, you’ll have time in class to apply for jobs. By the end of the class, you will submit 3 job applications. 
+Now that you have had some practice, applying for jobs should come a little bit easier. Again, you'll have time in class to apply for jobs. By the end of the class, you will submit 3 job applications. 
 
 **Week 35: Job Applications 3**
 You will have time in class and apply for 2 new jobs before the end of the week.
@@ -40,5 +40,5 @@ You will have time in class and apply for 2 new jobs before the end of the week.
 **Week 38: Job Applications 4 and Planning Your Time After Epicodus**
 You'll apply for 1 new job during class this week and go through job search strategies with your advisor.
 
-You’ll continue to receive job searching support for up to a year after graduation. We look forward to helping your successful entry into the tech industry! 
+You'll continue to receive job searching support for up to a year after graduation. We look forward to helping your successful entry into the tech industry! 
 

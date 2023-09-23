@@ -3,7 +3,7 @@
 
 Coding is just one piece of the puzzle to becoming a great developer. In this lesson,  we will dig into the practical skills that will help you be successful at Epicodus and beyond. This includes skills like time management, organization, meeting assignment objectives, and building positive habits.
 
-First, we’ll take a look at the Career and Code Review Submission Schedule for both full-time and part-time classes. You’ve seen this information previously, but we have found that repetition helps reduce confusion as you begin to complete code and career reviews in class. . Take a look at the example calendars below: 
+First, we'll take a look at the Career and Code Review Submission Schedule for both full-time and part-time classes. You've seen this information previously, but we have found that repetition helps reduce confusion as you begin to complete code and career reviews in class. . Take a look at the example calendars below: 
 
 ### Full-Time Career & Code Review Example Schedule
 
@@ -47,7 +47,7 @@ You can find the **part-time** career services assignment schedule here:
 
 Each assignment will have the objectives laid out clearly in Epicenter. Review the objectives prior to starting the assignment. Knowing exactly what is expected for each project will help you to make sure you have achieved each piece that instructors and advisors will be grading on. Then, use the objectives like a checklist before you submit your project to double check that you have met all of the requirements. 
 
-* Pay close attention to details! The more attention you pay to the details of the assignment now, the less likely it is you’ll have to fix something later. This saves your future self time and effort! 
+* Pay close attention to details! The more attention you pay to the details of the assignment now, the less likely it is you'll have to fix something later. This saves your future self time and effort! 
 *  **Note:** all career services coursework and objectives are available under the **Internship class** in Epicenter, not the current coding module. It's good practice to check this page regularly! Each assignment will have the objectives laid out clearly in Epicenter.
 
 ### Incorporating Teacher and Advisor Feedback 
@@ -58,7 +58,7 @@ Try to be as detail oriented as possible when reviewing any missing objectives. 
 
 ### Tips, Tricks, & Tools to Stay on Track
 
-There is a lot of material to cover in a short amount of time, and it can be easy for things like resubmissions or deadlines to fall through the cracks. Using all of the tools at your disposal (like calendars, planners, and reminder apps, etc.) rather than just relying on memory means one less thing for you to have to keep track of.  This allows you to focus on completing the task at hand, rather than trying to remember if you got everything done.  It also helps you avoid burnout, since you’re using less mental energy on juggling tasks.
+There is a lot of material to cover in a short amount of time, and it can be easy for things like resubmissions or deadlines to fall through the cracks. Using all of the tools at your disposal (like calendars, planners, and reminder apps, etc.) rather than just relying on memory means one less thing for you to have to keep track of.  This allows you to focus on completing the task at hand, rather than trying to remember if you got everything done.  It also helps you avoid burnout, since you're using less mental energy on juggling tasks.
 
 Here are a few tips to stay organized at Epicodus: 
 
@@ -67,7 +67,7 @@ Here are a few tips to stay organized at Epicodus:
 * Check your inbox regularly for emails/reminders from instructors and advisors.
 * Prioritize tasks and be proactive, but also be flexible.
 * Build a routine. Set aside specific outside-of-class time each week for studying/working on any resubmissions you may have, as well as for self-care.
-* Don’t be afraid to ask for help! Sometimes life throws us a curveball, so please reach out to your instructor or advisor if you need anything. 
+* Don't be afraid to ask for help! Sometimes life throws us a curveball, so please reach out to your instructor or advisor if you need anything. 
 
 ### Success at Epicodus and Beyond
 
@@ -79,17 +79,17 @@ We find that students are most successful long-term when they build good habits 
 
 ### Remote Learning
 
-Learning and working remotely can be really convenient and flexible, but there are some challenges that come with it too. If you haven’t worked or studied remotely before, it can be difficult to maintain a healthy work-life balance at first. Here are some tips and tricks to help you adjust to remote learning at Epicodus: 
+Learning and working remotely can be really convenient and flexible, but there are some challenges that come with it too. If you haven't worked or studied remotely before, it can be difficult to maintain a healthy work-life balance at first. Here are some tips and tricks to help you adjust to remote learning at Epicodus: 
 
 * As much as space allows, try to create a space for yourself that is just reserved for work.
 * If you have a separate room to work in, that's amazing! However,  you can also pick a specific corner of your room, a specific chair, or whatever is available that helps you create some mental separation between “work” and “home”. 
 * Have a space where you can speak and listen while pair programming, without too much background noise.  
-* Try to minimize distractions as much as you can. This isn’t always possible with kids, pets, partners, and housemates, but do your best to carve out an intentional space for work. 
+* Try to minimize distractions as much as you can. This isn't always possible with kids, pets, partners, and housemates, but do your best to carve out an intentional space for work. 
 * Set boundaries around what is work-time and what is down-time. Even though you will need to study outside of class, it's still important to give yourself structure for that time and to maintain a healthy work-life balance. 
 * Make your workspace pleasant! Keep it fairly tidy. Make sure the things you need are easily accessible. Little things like being near a window or having house plants nearby can brighten up your day, too. 
 * Take breaks. Every 20 or 30 minutes, take a quick 5 minute break to get up, move around, and take care of yourself. 
-* Practice good remote communication skills.  When we’re not all in the same building it's easy to lose track of each other and things can fall through the cracks. Communicate promptly and regularly with your pair, your dev group, instructors, and advisors. 
-* As much as possible, create a routine like you’re actually getting up and coming in to work. Some of you will likely have remote jobs after you graduate, so it's great to get into these habits now. It can be nice to work some self care into your morning routine, too.
-* Use your blur tool whenever you have to appear on video and there's something in your background that wouldn’t feel appropriate in an office setting.  This can be things like laundry, shared spaces, art or photography that feels more personal than you are comfortable with sharing, etc. This helps create a bit of distance and discretion when we’re working in a way that allows us to see into each other's living spaces. 
-* We dress casually at Epicodus, but don’t wear anything you wouldn’t feel comfortable wearing to an in-person class.  Keep in mind that getting dressed for the day as though you were headed to work can have a positive impact on your mental state. 
-* It's fine to have snacks and drinks while on camera when you’re not speaking, but  please refrain from smoking, vaping, or drinking alcohol on video chat as this would not be appropriate in a workplace setting. 
+* Practice good remote communication skills.  When we're not all in the same building it's easy to lose track of each other and things can fall through the cracks. Communicate promptly and regularly with your pair, your dev group, instructors, and advisors. 
+* As much as possible, create a routine like you're actually getting up and coming in to work. Some of you will likely have remote jobs after you graduate, so it's great to get into these habits now. It can be nice to work some self care into your morning routine, too.
+* Use your blur tool whenever you have to appear on video and there's something in your background that wouldn't feel appropriate in an office setting.  This can be things like laundry, shared spaces, art or photography that feels more personal than you are comfortable with sharing, etc. This helps create a bit of distance and discretion when we're working in a way that allows us to see into each other's living spaces. 
+* We dress casually at Epicodus, but don't wear anything you wouldn't feel comfortable wearing to an in-person class.  Keep in mind that getting dressed for the day as though you were headed to work can have a positive impact on your mental state. 
+* It's fine to have snacks and drinks while on camera when you're not speaking, but  please refrain from smoking, vaping, or drinking alcohol on video chat as this would not be appropriate in a workplace setting. 

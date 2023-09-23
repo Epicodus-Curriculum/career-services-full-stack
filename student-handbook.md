@@ -139,7 +139,7 @@ Most days, you'll spend your classroom time at Epicodus pair programming, in whi
 
 From past classes, we've seen that teamwork and communication skills are more important than coding skills when it comes to applying for jobs. So use pairing as a way to intentionally build your skills in these areas!
 
-All that said, pairing has its drawbacks, the main one being that some of your pairs will learn at a different pace than you. In time, you will find other students who work at about the same pace as you. However, you’ll also regularly “pair up” and “pair down”. Some days you'll “pair up" with somebody who understands the concepts better than you: take these opportunities to learn from your pair. Some days you'll “pair down" with someone who understands the concepts less than you: take these opportunities to better cement your own understanding by explaining to your pair. 
+All that said, pairing has its drawbacks, the main one being that some of your pairs will learn at a different pace than you. In time, you will find other students who work at about the same pace as you. However, you'll also regularly “pair up” and “pair down”. Some days you'll “pair up" with somebody who understands the concepts better than you: take these opportunities to learn from your pair. Some days you'll “pair down" with someone who understands the concepts less than you: take these opportunities to better cement your own understanding by explaining to your pair. 
 
 The terms "pairing up" and "pairing down" simply compare where each person is at in terms of knowledge and understanding of that class session's concepts. In no way should this be used to evaluate a person's intelligence or capacity to become a developer. We expect that Epicodus students have varying levels of previous experience. Some people struggle with one concept but quickly grasp another. Some people may have studied coding previously. Others may have had to deal with structural disadvantages in the past, such as not growing up with a computer in the house, being discouraged from pursuing technical careers, or dealing with other life issues. Still others may be dealing with personal issues in the moment — whether a lack of sleep the night before or other long-term stresses.
 
@@ -201,7 +201,7 @@ You must submit your project by the specified deadline. There are three deadline
     *  Due at 8 am on Monday for full-time students.
     *  Due at 9 am on Sunday for part-time students. 
 
-Once you are passing a project, there's nothing more required of you. You can tell whether you’ve passed or failed a project by your feedback on Epicenter. 
+Once you are passing a project, there's nothing more required of you. You can tell whether you've passed or failed a project by your feedback on Epicenter. 
 
 If you do not meet the objectives on your initial submission, you'll need to resubmit your project. It's commonplace for students to do a resubmission and the feedback will direct you on what's missing. Keep in mind that you do not have to wait until the resubmission deadline to turn in your project — we welcome you to turn in resubmissions early.
 
@@ -230,7 +230,7 @@ Students are required to pass all assignments and keep up with the pace of the p
 
 In both of the cases above, this means that you have fallen behind with your coursework. When either situation occurs, your teacher(s) and advisor(s) will meet with you to discuss your academic standing and consider your situation and any contributing factors. We will ask you to either leave the program or retake all or part of the program without being charged any additional tuition, however, if you're paying your tuition through a third party, you may be charged extra costs from them. We'll extend this offer to retake coursework no more than once. At Epicodus staff discretion, we may make an exception and allow you to continue with your current cohort.
 
-These policies are in place because it is our responsibility to ensure that when they leave our program, graduates are ready to be successful in their job search and eventual first role as a developer. When students have repeated Academic Warnings or miss the 17 day deadline, this is an indicator that they’re struggling with either technical or soft skills necessary to succeed.
+These policies are in place because it is our responsibility to ensure that when they leave our program, graduates are ready to be successful in their job search and eventual first role as a developer. When students have repeated Academic Warnings or miss the 17 day deadline, this is an indicator that they're struggling with either technical or soft skills necessary to succeed.
 
 We know Epicodus is an intensive and demanding program, and that there are many factors that can contribute to a student falling behind. Because of this, we do see students in every cohort retake all or part of the coursework. For whatever reason if you find yourself struggling, please reach out to an instructor or advisor so they can help you identify the best steps forward.
 
@@ -388,9 +388,9 @@ This advisor support includes:
 * Extended job search support if needed.
 * ehind the scenes, our advising team proactively reaches out to our company contacts, and will pass any opportunities along to our students to create connections with potential internship opportunities. 
  
-Part-time students have 10 weeks after the end of the coding curriculum to secure an internship or join a full-time internship. During this time, if you have not yet coordinated your internship, you’ll check in with your advisor weekly, continue applying to jobs or internships, and work on coding projects or continued education independently to keep your skills sharp.
+Part-time students have 10 weeks after the end of the coding curriculum to secure an internship or join a full-time internship. During this time, if you have not yet coordinated your internship, you'll check in with your advisor weekly, continue applying to jobs or internships, and work on coding projects or continued education independently to keep your skills sharp.
  
-Once you’ve secured an internship, you’ll want to make sure we’re looped in so that we can credit it towards your graduation. Send an email to your advisor connecting them with your mentor or another appropriate representative at the company you’ll be interning with. They will need to confirm the start date of your internship and that they are able to comply with the requirements of the program (at least 150 total hours of coding-related experience, and an experienced developer mentor available to support you throughout the internship and answer your questions). In the event that you are pursuing a career that is not development, let your advisor know so that we can work with you to adjust these requirements accordingly. 
+Once you've secured an internship, you'll want to make sure we're looped in so that we can credit it towards your graduation. Send an email to your advisor connecting them with your mentor or another appropriate representative at the company you'll be interning with. They will need to confirm the start date of your internship and that they are able to comply with the requirements of the program (at least 150 total hours of coding-related experience, and an experienced developer mentor available to support you throughout the internship and answer your questions). In the event that you are pursuing a career that is not development, let your advisor know so that we can work with you to adjust these requirements accordingly. 
 
 ## [Internship Eligibility](#internship-eligibility)
 
@@ -402,7 +402,7 @@ Please note that while we cannot guarantee internships to any students in our pr
 
 ## [Computer Science Curriculum](#computer-science-curriculum)
 
-In the five weeks after you finish your internship, if you haven't yet found a paying job, you’ll return to the curriculum and work through our Computer Science and Job Search course to explore more advanced concepts that will help set you apart as a candidate, while continuing your job search with the support of your advisor. 
+In the five weeks after you finish your internship, if you haven't yet found a paying job, you'll return to the curriculum and work through our Computer Science and Job Search course to explore more advanced concepts that will help set you apart as a candidate, while continuing your job search with the support of your advisor. 
 
 ## [Job Hunting Support](#job-hunting-support)
 
@@ -418,11 +418,11 @@ Diversity, equity, and inclusion (DEI) are core parts of Epicodus's mission stat
 
 ## [Community Agreements](#community-agreements)
 
-DEI discussions can be emotionally charged and uncomfortable at times, so we have community agreements in place to guide a respectful and educational conversation, whether it's in our facilitated workshops or in casual discussions among students. You’ll find this list along with some additional resources in the pre-work you received when you enrolled. You can also find [the community agreements](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/community-agreements) in the DEI track on LearnHowToProgram.com. 
+DEI discussions can be emotionally charged and uncomfortable at times, so we have community agreements in place to guide a respectful and educational conversation, whether it's in our facilitated workshops or in casual discussions among students. You'll find this list along with some additional resources in the pre-work you received when you enrolled. You can also find [the community agreements](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/community-agreements) in the DEI track on LearnHowToProgram.com. 
 
 ## [Class Discussions and Workshops](#class-discussions-and-workshops)
 
-During your time at Epicodus, there will be a series of workshops facilitated by Epicodus staff to discuss specific topics within diversity, equity, and inclusion, and more specifically how they relate to the classroom environment and the industry you’re getting ready to enter. These workshops will start towards the beginning of class with a presentation that concludes with an opportunity for group discussion. The other four workshops each cover a topic with a short presentation and a series of breakout sessions in which students discuss prompts in small groups.
+During your time at Epicodus, there will be a series of workshops facilitated by Epicodus staff to discuss specific topics within diversity, equity, and inclusion, and more specifically how they relate to the classroom environment and the industry you're getting ready to enter. These workshops will start towards the beginning of class with a presentation that concludes with an opportunity for group discussion. The other four workshops each cover a topic with a short presentation and a series of breakout sessions in which students discuss prompts in small groups.
 
 ## [Lessons and Reflections](#lessons-and-reflections)
 
@@ -430,7 +430,7 @@ Occasionally, throughout the program, there will be an additional DEI lesson on 
 
 ## [Staff Support](#staff-support)
 
-The Director of Operations will be your primary support regarding the DEI component of our program. They will be involved in facilitating most of the workshops. They’ll also occasionally join Scrum and have office hours if you have questions, want to discuss something about one of the lessons, or just want to talk!
+The Director of Operations will be your primary support regarding the DEI component of our program. They will be involved in facilitating most of the workshops. They'll also occasionally join Scrum and have office hours if you have questions, want to discuss something about one of the lessons, or just want to talk!
 
 # [Facilities](#facilities)
 
@@ -531,17 +531,17 @@ In accordance with CDC and state guidance, if you'd like to attend in-person cla
 
 Your health and safety are important to us. Since equipment is shared among all in-person students, we will provide disinfectant wipes and hand sanitizer, and ask that students do not leave for the day before wiping down their work station.
 
-Do not come into the office if you If you have cold symptoms, such as cough/sneezing/fever, test positive for COVID-19, or have been in close contact with someone who has. While you are attending in-person classes, if you test positive for COVID-19, you will need to stay home from class for five days or until you test negative, whichever comes later. Email your teacher and they’ll work with your specific situation to make sure you don’t fall behind and are not penalized for missing class. 
+Do not come into the office if you If you have cold symptoms, such as cough/sneezing/fever, test positive for COVID-19, or have been in close contact with someone who has. While you are attending in-person classes, if you test positive for COVID-19, you will need to stay home from class for five days or until you test negative, whichever comes later. Email your teacher and they'll work with your specific situation to make sure you don't fall behind and are not penalized for missing class. 
 
 In compliance with state guidance, if there is a positive COVID-19 case reported by someone in our office and you may have been exposed, we will alert you to this. No personally identifying information will be shared.
 
 ## [Communication Expectations](#communication-expectations)
 
-While you're at Epicodus, we’ll send you important information by email and on Discord. If you miss these messages, you could miss information and deadlines relating to internship rankings, interviews, etc. During our workweek, we aim to answer emails within 24 hours, and on days you have class, we expect you to do the same – your future employer in the tech industry probably will, too. If you aren’t already in the habit, check your email at least once a day on class days. 
+While you're at Epicodus, we'll send you important information by email and on Discord. If you miss these messages, you could miss information and deadlines relating to internship rankings, interviews, etc. During our workweek, we aim to answer emails within 24 hours, and on days you have class, we expect you to do the same – your future employer in the tech industry probably will, too. If you aren't already in the habit, check your email at least once a day on class days. 
 
-Email is the best way to reach us. Not all of Epicodus staff roles use Discord in the same way, so please don’t direct message us there.
+Email is the best way to reach us. Not all of Epicodus staff roles use Discord in the same way, so please don't direct message us there.
 
-Sometimes, you may not be able to provide information we’ve asked for right away. Even if you can’t, make sure to send a quick reply that you received the email and when we can expect to hear back so that we know it wasn’t missed.
+Sometimes, you may not be able to provide information we've asked for right away. Even if you can't, make sure to send a quick reply that you received the email and when we can expect to hear back so that we know it wasn't missed.
 
 ## [Discrimination and Harassment](#discrimination-and-harassment)
 
@@ -584,7 +584,7 @@ If you've witnessed or personally experienced behavior from another student that
 
 ### [Our Limitations](#our-limitations)
 
-The feedback and suggestions we receive from students continually drive our motivation to provide improved learning opportunities to our students. In some cases we are not able to act on the feedback we receive, because it conflicts with the structure of our program. Other times, we are not able to act on the feedback we receive because we don’t have the resources to allocate for new projects. In most cases, we intend to make changes based on the feedback, but we cannot act quickly because we are a small team. 
+The feedback and suggestions we receive from students continually drive our motivation to provide improved learning opportunities to our students. In some cases we are not able to act on the feedback we receive, because it conflicts with the structure of our program. Other times, we are not able to act on the feedback we receive because we don't have the resources to allocate for new projects. In most cases, we intend to make changes based on the feedback, but we cannot act quickly because we are a small team. 
 
 If you have any questions about what we do with your feedback, reach out to a staff member at Epicodus.
 
@@ -644,7 +644,7 @@ Epicodus complies with the Family Educational Rights and Privacy Act (FERPA).
 
 
 ## [Mental Health Resources for Students](#mental-health-resources-for-students)
-Sometimes Epicodus students can experience mental health challenges. This could be an ongoing challenge that you’ve experienced before or it could be a new difficulty resulting from managing the stresses of life while in an intensive program of study.  Either way, we want you to know that mental health concerns are common and nothing to be ashamed of and that mental health support is available should you need it. The following list is by no means exhaustive and there are many more resources out there than it would be possible to list here. That said, we hope this gives you a place to start if you are looking for support and don’t know where to begin. If you need **academic support or accommodation** around mental health concerns, please reach out to an Epicodus staff member so we can collaborate on how to best support you in this program. Your mental and emotional wellness matter, so please take good care of yourself! 
+Sometimes Epicodus students can experience mental health challenges. This could be an ongoing challenge that you've experienced before or it could be a new difficulty resulting from managing the stresses of life while in an intensive program of study.  Either way, we want you to know that mental health concerns are common and nothing to be ashamed of and that mental health support is available should you need it. The following list is by no means exhaustive and there are many more resources out there than it would be possible to list here. That said, we hope this gives you a place to start if you are looking for support and don't know where to begin. If you need **academic support or accommodation** around mental health concerns, please reach out to an Epicodus staff member so we can collaborate on how to best support you in this program. Your mental and emotional wellness matter, so please take good care of yourself! 
 
 ### Hotlines and General Resources
 * [Trans Lifeline](https://translifeline.org)

@@ -10,7 +10,7 @@ Here at Epicodus, your teachers have likely encouraged you to attend meetups as 
 ## Why Network?
 ---
 
-There are a lot of benefits to networking. The number one benefit is that you’ll meet new people in your local tech community, and you might make some new friends who share your interests. You can also learn more about opportunities and resources within your community (jobs, community resources, trainings, etc). Networking events frequently have a learning component to them with a guest speaker presenting on a topic, so it's also an opportunity to learn about new technologies and tools you haven’t worked with.
+There are a lot of benefits to networking. The number one benefit is that you'll meet new people in your local tech community, and you might make some new friends who share your interests. You can also learn more about opportunities and resources within your community (jobs, community resources, trainings, etc). Networking events frequently have a learning component to them with a guest speaker presenting on a topic, so it's also an opportunity to learn about new technologies and tools you haven't worked with.
 
 Here are a few more benefits to networking to consider:
 
@@ -19,13 +19,13 @@ Here are a few more benefits to networking to consider:
 * Discover new parts of the industry; get a deeper look at parts of the industry you already know.
 * Build social connections that may help your job search later.
 
-### DON’T approach networking with the expectation of a job offer.
+### DON'T approach networking with the expectation of a job offer.
 
-This can come across negatively. No one is obligated to offer you a job, and you don’t want to seem like you’re just using people to get ahead. Which leads us to our next point:
+This can come across negatively. No one is obligated to offer you a job, and you don't want to seem like you're just using people to get ahead. Which leads us to our next point:
 
-### DO approach networking to build real connections with people who share a mutual interest in tech — and you’ll probably find that those people think of you when their company is hiring!
+### DO approach networking to build real connections with people who share a mutual interest in tech — and you'll probably find that those people think of you when their company is hiring!
 
-It's great to network with the intention of supporting your career, but you want the relationships you create to be genuine! You don’t have to be best friends with everyone you meet through networking, but try to build real connections. Remember that the folks you interact with are also real people, not just potential job opportunities. How would you want someone to approach you? People generally want to help each other, especially the people they like and connect with on a real level, so the benefits of networking come naturally when you focus on relationships first.
+It's great to network with the intention of supporting your career, but you want the relationships you create to be genuine! You don't have to be best friends with everyone you meet through networking, but try to build real connections. Remember that the folks you interact with are also real people, not just potential job opportunities. How would you want someone to approach you? People generally want to help each other, especially the people they like and connect with on a real level, so the benefits of networking come naturally when you focus on relationships first.
 
 ### Considerations for Networking During Covid
 * Look for virtual [Meetups](https://www.meetup.com/) held over Zoom, Google Meet, etc.

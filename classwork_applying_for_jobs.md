@@ -2,7 +2,7 @@ While coding skills are important for getting a job in the field, it's absolutel
 
 The purpose of this assignment is to get you prepared for regularly applying to jobs with maximum hiring potential. Your career advisor will be checking your submitted application materials to help optimize your success.
 
-By the end of each Thursday for the next four weeks, you'll be expected to apply for one to three jobs depending on the week. (See the end of this lesson for more details.) On Epicenter, you will send a link to the job posting as your submission along with a link to your Google Spreadsheet job tracker OR to this link (https://nomorecoverletter.com) if you used No More Cover Letter. Tracking your job applications will help you and your career coach keep track of every job that you’ve applied to, as well as your targeted resumes and cover letters. It's important to keep your tracker updated every time you apply to a job, even after you graduate from Epicodus.
+By the end of each Thursday for the next four weeks, you'll be expected to apply for one to three jobs depending on the week. (See the end of this lesson for more details.) On Epicenter, you will send a link to the job posting as your submission along with a link to your Google Spreadsheet job tracker OR to this link (https://nomorecoverletter.com) if you used No More Cover Letter. Tracking your job applications will help you and your career coach keep track of every job that you've applied to, as well as your targeted resumes and cover letters. It's important to keep your tracker updated every time you apply to a job, even after you graduate from Epicodus.
 
 Because the most common roadblock to getting hired is not applying for enough jobs, your Thursday job application requirements will be 8 jobs in total. This week we will ask for two job applications. Next week you will apply to three jobs. The week after you will apply to two jobs, and then during week five of React, you will be expected to apply to at least one job. Then, during the final week of class, you will be submitting your resumes and cover letters to internship companies for interviews.
 
@@ -32,11 +32,11 @@ Since you've already gotten feedback on a practice resume and cover letter, you 
 
 Once you have written a resume and cover letter, send in your application to the employer!
 
-Add the links for your resume and cover letter to your job tracking spreadsheet or to No More Cover Letter (make sure they are shared and visible to your advisor), and then submit your job tracker in Epicenter as your career review submission. Even though you’ve already submitted your applications, your advisor can give you feedback on your resumes and cover letters that you can use to make future applications even better.
+Add the links for your resume and cover letter to your job tracking spreadsheet or to No More Cover Letter (make sure they are shared and visible to your advisor), and then submit your job tracker in Epicenter as your career review submission. Even though you've already submitted your applications, your advisor can give you feedback on your resumes and cover letters that you can use to make future applications even better.
 
 To submit your materials as a career review using the Google spreadsheet job tracker, click on the "Share" button at the top of your resume, cover letter, and job search spreadsheet. It will prompt you to give your document a name and then open a window called 'Share with others.' In the top-right of this window, click the button that says 'Get shareable link.' Open the drop-down menu that says 'Anyone with the link can view,' and change the option to 'Anyone with the link can edit,' then copy the resulting link. This way, your advisor can give you feedback directly on your documents and view your job search tracker.
 
-If you use No More Cover Letter, please paste this link (https://nomorecoverletter.com) into the submission box for the career reviews. Please remember to click on the "Share" button at the top of your resume and cover letter so it says ‘Anyone with the link can edit’. This way, your advisor can give you feedback directly on your documents.
+If you use No More Cover Letter, please paste this link (https://nomorecoverletter.com) into the submission box for the career reviews. Please remember to click on the "Share" button at the top of your resume and cover letter so it says ‘Anyone with the link can edit'. This way, your advisor can give you feedback directly on your documents.
 
 ### Weekly Expectations
 
