@@ -9,9 +9,9 @@ Below is a general explanation and walk-through of the internship process. Exact
 ---
 
 Please refer to this general schedule of career services:
-<br>
+<br />
 [Full-Time Students](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/career-services-schedule)
-<br>
+<br />
 [Part-Time Students](https://www.learnhowtoprogram.com/introduction-to-programming-part-time/getting-started-at-epicodus/career-services-schedule)
 
 Before you interact with potential internship companies, you will have class time to practice writing application materials and interviewing.
