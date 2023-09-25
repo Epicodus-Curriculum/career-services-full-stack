@@ -1,6 +1,6 @@
 title: Internship and Job Search
 show_weeks_and_days: true
-homepage: index.md
+homepage: index-internship-and-job-search.md
 sections:
   - ft_0_internship-process.yaml
   - ft_1_applying-for-internships-and-jobs.yaml
