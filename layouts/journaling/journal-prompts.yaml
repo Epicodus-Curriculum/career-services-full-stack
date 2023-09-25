@@ -1,0 +1,73 @@
+section: Journal Prompts
+order: 2
+repo: career-services-full-stack
+directory: 2_journal-prompts
+lessons:
+  - title: 'Journal #1'
+    filename: 1_week_one_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #2'
+    filename: 1_week_two_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #3'
+    filename: 1_week_three_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #4'
+    filename: 1_week_four_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #5'
+    filename: 1_week_five_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #6'
+    filename: 1_week_six_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #7'
+    filename: 1_week_seven_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #8'
+    filename: 1_week_eight_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #9'
+    filename: 1_week_nine_journal_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #10'
+    filename: 1_week_ten_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #11'
+    filename: 1_week_eleven_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #12'
+    filename: 1_week_twelve_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #13'
+    filename: 1_week_thirteen_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #14'
+    filename: 1_week_16_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #15'
+    filename: 1_week_17_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #16'
+    filename: 1_week_18_prompt.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #17'
+    filename: 1_week_19_prompt.md
+    day: weekend
+    type: lesson

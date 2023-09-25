@@ -1,0 +1,6 @@
+title: Journaling Curriculum
+show_weeks_and_days: false
+homepage: index.md
+sections:
+  - introduction-to-journaling-at-epicodus.yaml
+  - journal-prompts.yaml

@@ -1,0 +1,9 @@
+section: Introduction to Journaling at Epicodus
+order: 1
+repo: career-services-full-stack
+directory: 1_introduction-to-journaling-at-epicodus
+lessons:
+  - title: Introduction to Journaling at Epicodus
+    filename: 0_introduction_to_journals.md
+    day: weekend
+    type: lesson

@@ -1,0 +1,74 @@
+section: Applying for Internships and Jobs
+order: 2
+repo: career-services-full-stack
+directory: 2_applying-for-internships-and-jobs
+lessons:
+  - title: LinkedIn Profiles
+    filename: 3_linkedin_classwork.md
+    day: weekend
+    type: exercise
+  - title: After Your Internship
+    filename: after_your_internship.md
+    day: weekend
+    type: lesson
+  - title: Preparing to Apply for Jobs
+    filename: preparing_to_apply.md
+    day: weekend
+    type: lesson
+  - title: Job Boards
+    filename: 5_job_boards.md
+    day: monday
+    type: lesson
+  - title: Writing Cover Letters and Resumes
+    filename: 0_writing_cover_letters_and_resumes.md
+    day: monday
+    type: lesson
+  - title: Writing Your Cover Letter
+    filename: 1_write_your_cover_letter.md
+    day: monday
+    type: lesson
+  - title: Writing Your Resume
+    filename: 2_write_your_resume.md
+    day: monday
+    type: lesson
+  - title: Sample Job Post
+    filename: sample_job_post.md
+    day: monday
+    type: lesson
+  - title: Resume and Cover Letter Review
+    filename: resume_and_cover_letter_review.md
+    day: monday
+    type: lesson
+  - title: Continuing to Code
+    filename: continuing_to_code.md
+    day: tuesday
+    type: lesson
+  - title: Job Application Goals
+    filename: job_app_goals.md
+    day: tuesday
+    type: lesson
+  - title: Epicodus Job Board
+    filename: 5_job_boards.md
+    day: wednesday
+    type: lesson
+  - title: Following Up During the Job Application Process
+    filename: 6_Follow-Up_During_the_Job_Application_Process.md
+    day: wednesday
+    type: lesson
+  - title: Expand Your Job Search Network Through Cold Emailing
+    filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
+    day: wednesday
+    type: lesson
+  - title: Tools for Email Management
+    filename: 8_Tools_for_Email_Management.md
+    day: wednesday
+    type: lesson
+  - title: Sprucing Up GitHub
+    filename: sprucing_up_github.md
+    day: thursday
+    type: lesson
+  - title: Meetups and Networking
+    filename: meetups-and-networking.md
+    day: thursday
+    type: lesson
+    repo: career-services-full-stack

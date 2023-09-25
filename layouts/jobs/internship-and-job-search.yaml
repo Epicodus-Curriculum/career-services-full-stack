@@ -1,0 +1,7 @@
+title: Internship and Job Search
+show_weeks_and_days: true
+homepage: index.md
+sections:
+  - ft_0_internship-process.yaml
+  - ft_1_applying-for-internships-and-jobs.yaml
+  - ft_2_preparing-for-job-interviews.yaml
