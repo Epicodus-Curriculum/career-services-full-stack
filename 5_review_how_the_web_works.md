@@ -1,5 +1,5 @@
 ## Mock Interview Questions
-<hr>
+<hr />
 
 ### Web Clients and Servers
 

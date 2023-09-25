@@ -1,5 +1,5 @@
 ## Technical Interviews
-<hr>
+<hr />
 
 A technical interview, or technical portion of an interview, will focus on your coding knowledge and problem solving skills. The purpose is to get an idea of how you think, and what strengths you can bring to their company.
 

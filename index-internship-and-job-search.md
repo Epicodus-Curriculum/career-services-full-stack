@@ -1,6 +1,6 @@
 ---
 title: Internship and Job Search
-id: index-internship-and-job-search
+id: index
 slug: /internship_and_job_search
 hide_table_of_contents: true
 sidebar_position: 0
