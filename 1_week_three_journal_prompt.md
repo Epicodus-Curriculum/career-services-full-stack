@@ -1,4 +1,4 @@
-You were asked to keep a journal while going through the program. Each weekend you'll receive a brief journaling assignment in addition to your coding homework. (Review the _[Journaling at Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-journaling-at-epicodus)_ lesson for a refresher.)
+You were asked to keep a journal while going through the program. Each weekend you'll receive a brief journaling assignment in addition to your coding homework. (Review the _[Journaling at Epicodus](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-journaling-at-epicodus)_ lesson for a refresher.)
 
 ## Journal #3 Prompt
 
