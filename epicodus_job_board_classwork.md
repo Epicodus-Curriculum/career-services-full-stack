@@ -1,4 +1,4 @@
-Today we will take time to create Indeed and Jr Dev Jobs profiles, which will help employers find you. We'll also sign up for ZipRecruiter, which will notify you about jobs that are a good fit. At the end of the day, you'll submit your Indeed and Jr Dev Jobs profiles as a code review.
+Today we will take time to create Indeed and Jr Dev Jobs profiles, which will help employers find you. At the end of the day, you'll submit your Indeed and Jr Dev Jobs profiles as a code review.
 
 Work with others on career services projects and application materials just like you would for pair-programming in coding! Ask each other to review material, provide feedback, and team up to practice interview questions.
 
@@ -21,9 +21,3 @@ This will complete the resume set up process. Indeed will now show your profile 
 A note of caution: your Indeed Resume should make your job search simpler, easier, and quicker, but it isn't a replacement for the rest of the application process. When you use this feature, it will prompt you to answer any relevant questions the company has. It can be tempting to apply to lots and lots of jobs with this quick-apply feature without a cover letter. However, this is a bad idea. Remember, one good, high-quality application with a custom cover letter that speaks directly to your interest in the position and what the company does will always get you farther than dozens of haphazard, cookie-cutter applications.
 
 Once you've finished your Indeed Resume, submit the link to your profile in Epicenter for the Indeed Resume code review.
-
-## Zip Recruiter
-
-Finally, sign up for job alerts at http://epicodus.com/ziprecruiter to get jobs sent to your inbox tailored by location and type of job. ZipRecruiter is a great service that can connect you to folks looking to hire quickly for a wide variety of developer and related positions from companies big and small.
-
-![Interface for for Ziprecruiter](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Soft+Skills+&+Career+Prep/ziprecruiter.png)
