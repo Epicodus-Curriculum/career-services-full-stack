@@ -21,7 +21,7 @@ Keep in mind that for full time students, you will have an independent code revi
 
 The **full-time** track career services assignment schedule is available here:
 
-* **<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Assignment Schedule](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/career-services-schedule)**
+* **<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Assignment Schedule](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule)**
 
 ### Part-Time Career & Code Review Example Schedule
 
