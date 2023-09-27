@@ -10,9 +10,9 @@ Below is a general explanation and walk-through of the internship process. Exact
 
 Please refer to this general schedule of career services:
 <br />
-[Full-Time Students](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule)
+[Full-Time Students](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)
 <br />
-[Part-Time Students](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/getting-started-at-epicodus/career-services-schedule)
+[Part-Time Students](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)
 
 Before you interact with potential internship companies, you will have class time to practice writing application materials and interviewing.
 
@@ -90,7 +90,7 @@ It's completely okay to reach out to a company, introduce yourself, and ask if t
 
 ### Other Tips
 
-There are lots of lessons on [Applying to Internships and Jobs](https://new.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs). A very important lesson is [Following Up During the Job Application Process](https://new.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/following-up-during-the-job-application-process) If you're not following up with people you have reached out to, you could very easily miss out on some good leads.
+There are lots of lessons on [Applying to Internships and Jobs](https://new.learnhowtoprogram.com/internship-and-job-search). A very important lesson is [Following Up During the Job Application Process](https://new.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/following-up-during-the-job-application-process) If you're not following up with people you have reached out to, you could very easily miss out on some good leads.
 
 ### Coordinating With Epicodus
 
