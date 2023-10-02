@@ -3,13 +3,15 @@
 
 Coding is just one piece of the puzzle to becoming a great developer. In this lesson,  we will dig into the practical skills that will help you be successful at Epicodus and beyond. This includes skills like time management, organization, meeting assignment objectives, and building positive habits.
 
-First, we'll take a look at the Career and Code Review Submission Schedule for both full-time and part-time classes. You've seen this information previously, but we have found that repetition helps reduce confusion as you begin to complete code and career reviews in class. . Take a look at the example calendars below: 
+First, we'll take a look at the Career and Code Review Submission Schedule for both full-time and part-time classes. You've seen this information previously, but we have found that repetition helps reduce confusion as you begin to complete code and career reviews in class. Take a look at the example calendars below: 
 
-### Full-Time Career & Code Review Example Schedule
+### Full-Time and Part-Time Day-Time Career & Code Review Example Schedule
 
-![Sample assignment due date calendar for the full time class.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Soft%20Skills%20&%20Career%20Prep/Full-Time%20Sample%20Due%20Date%20Calendar.png)
+![Sample assignment due date calendar for the full time and part time day classes.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Soft%20Skills%20&%20Career%20Prep/Full-Time%20Sample%20Due%20Date%20Calendar.png)
 
-If you are in the full time program, your code and career reviews will always be due on Fridays at 5pm. You will **always** have time to work on career services assignments during class on Thursday (full or half-day) if a career services assignment is due that week.  This is dedicated time that should **only** be spent on career services. Similarly, each Friday will be dedicated to working on your weekly independent coding project and the project will be due that same day at 5pm. 
+If you are in the full time program, or in the part time day-time program, your code and career reviews will always be due on Fridays at 5pm. You will **always** have time to work on career services assignments during class on Thursday (full or half-day) if a career services assignment is due that week.  This is dedicated time that should **only** be spent on career services. Similarly, each Friday will be dedicated to working on your weekly independent coding project and the project will be due that same day at 5pm. 
+
+If you are in the part-time program, submissions work similarly but on a different weekly schedule.
 
 **On Fridays:**  Your independent code review will become viewable on Epicenter at 8 AM.  It will be due at 5 PM that same day. In the sample calendar above, the initial submission is due on Friday the 8th. Your instructor or advisor will grade the assignment and return it to you with feedback during the following week. 
 
@@ -17,13 +19,15 @@ If you are in the full time program, your code and career reviews will always be
 
 **On  Monday 17 days after the code review prompt is available on Epicenter:** This is the final deadline for this code review, due Monday at 8 AM. If your assignment is passing by this deadline, your academic warning will be cleared. If your assignment is not turned in and passing by this point, you will likely be too far behind to continue with the program. The code review in the above example was made available on the 8th, and the final deadline is the 25th. 
 
-Keep in mind that for full time students, you will have an independent code review each Friday. So while you are in the process of resubmitting your initial project, which was made available on the 8th, you will have new projects on the 15th and the 22nd. Each project will follow the same pattern for due dates, resubmission dates, and academic warnings.  Keep careful track, as it can be easy to fall behind.
+Keep in mind that for full time students, you will have an independent code review each Friday. So while you are in the process of resubmitting your initial project, which was made available on the 8th, you will have new projects on the 15th and the 22nd. Each project will follow the same pattern for due dates, resubmission dates, and academic warnings.  Keep careful track, as it can be easy to fall behind. 
+
+Part time day-time students have an independent code review *every other* Friday, but the resubmission schedule remains the same.
 
 The **full-time** track career services assignment schedule is available here:
 
 * **<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Assignment Schedule](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)**
 
-### Part-Time Career & Code Review Example Schedule
+### Part-Time Evening Career & Code Review Example Schedule
 
 ![Sample assignment due date calendar for the part time class.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Soft%20Skills%20&%20Career%20Prep/Part-Time%20Sample%20Due%20Date%20Calendar.png)
 
