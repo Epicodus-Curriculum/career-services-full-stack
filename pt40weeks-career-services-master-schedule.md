@@ -1,3 +1,8 @@
+### Important Update Note:
+*The information provided below is currently being updated for the upcoming October 2023 cohorts to coincide with curriculum and career services updates. For this reason, information below may not be accurate. New information will be covered during the first week of class, and this lesson will reflect the correct information.*
+
+---
+
 While it's vital to learn how to code if you want to be a software developer, finding your first job can be a challenge. Over the years, we've identified processes and behaviors that tend to make the difference between a graduate being successful or not. To this end, alongside the coding curriculum you'll be going through during the program, there is also a career services curriculum. The same expectations and deadlines will apply to both types of assignments. 
 
 Your advisor will send out an email with the specific dates when different pieces of the career services curriculum will occur, but here is a broad overview of what you can expect. 
