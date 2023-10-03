@@ -139,11 +139,11 @@ Most days, you'll spend your classroom time at Epicodus pair programming, in whi
 
 From past classes, we've seen that teamwork and communication skills are more important than coding skills when it comes to applying for jobs. So use pairing as a way to intentionally build your skills in these areas!
 
-All that said, pairing has its drawbacks, the main one being that some of your pairs will learn at a different pace than you. In time, you will find other students who work at about the same pace as you. However, you'll also regularly “pair up” and “pair down”. Some days you'll “pair up" with somebody who understands the concepts better than you: take these opportunities to learn from your pair. Some days you'll “pair down" with someone who understands the concepts less than you: take these opportunities to better cement your own understanding by explaining to your pair. 
+All that said, pairing has its drawbacks, the main one being that some of your pairs will learn at a different pace than you. In time, you will find other students who work at about the same pace as you. However, you'll also regularly "pair up" and "pair down". Some days you'll "pair up" with somebody who understands the concepts better than you: take these opportunities to learn from your pair. Some days you'll "pair down" with someone who understands the concepts less than you: take these opportunities to better cement your own understanding by explaining to your pair.
 
 The terms "pairing up" and "pairing down" simply compare where each person is at in terms of knowledge and understanding of that class session's concepts. In no way should this be used to evaluate a person's intelligence or capacity to become a developer. We expect that Epicodus students have varying levels of previous experience. Some people struggle with one concept but quickly grasp another. Some people may have studied coding previously. Others may have had to deal with structural disadvantages in the past, such as not growing up with a computer in the house, being discouraged from pursuing technical careers, or dealing with other life issues. Still others may be dealing with personal issues in the moment — whether a lack of sleep the night before or other long-term stresses.
 
-Please refrain from making value judgments about your peers (or yourself!) based on your perceived difference in skill sets. When you are pairing up or down, stay focused on learning and respectful collaboration. Both pairs should take initiative to switch who is driving regularly and engage each other with questions about problem solving. 
+Please refrain from making value judgments about your peers (or yourself!) based on your perceived difference in skill sets. When you are pairing up or down, stay focused on learning and respectful collaboration. Both pairs should take initiative to switch who is driving regularly and engage each other with questions about problem solving.
 
 It's important to work with a wide variety of people, including people at your same level of understanding. If you always pair down, you won't push your limits. If you always pair up, you'll find that even if you think you understand a concept, you won't be able to implement it yourself. If you have a couple days in a row where your pairs haven't been well-matched, talk with a teacher. Overall, you should expect that you will regularly pair up and pair down throughout the program.
 
@@ -161,7 +161,7 @@ The only way to become a programmer is to spend a lot of time programming, and E
 
 For classwork each day, you'll be assigned a new project, and each day, you'll work with a different pair (towards the end of the program, you may work on longer projects). For homework, you'll have approximately an hour of lessons introducing you to new concepts and tools. Some  days will have lighter or heavier loads of lessons to read, depending on the week's material. You're expected to go through the lessons on your own but not to code along with them or understand them completely. If you have the time, it is recommended to code along with the homework. Likewise, there are no lectures in class — that's what the homework is for. Each weekend will also have a set of lessons that you'll need to read through before beginning work in class the following  week.
 
-For our full-stack programs, there will be a career services related curriculum that runs aside your coding assignments. For the full-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule). For the part-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule). There will be time set aside during class to complete these assignments.
+For our full-stack programs, there will be a career services related curriculum that runs aside your coding assignments. For the full-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule-full-time). For the part-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule-part-time). There will be time set aside during class to complete these assignments.
 
 It's crucial that you spend the time to read the lessons before class, so you and your partners can use your time together most effectively to implement those concepts. It is unfair to both your pair, and yourself, if you do not come to class prepared.
 
@@ -215,7 +215,7 @@ Epicodus staff will give an Academic Warning to a student when an assignment is 
 
 The number of times you have been given an Academic Warning is tracked in Epicenter. If you have been given three Academic Warnings, your advisor(s) and teacher(s) will meet with you to discuss your academic standing, which includes the possibility of retaking all or part of the coursework or being asked to leave the program. 
 
-For students participating in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review the requirements around Academic Warnings in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement).  
+For students participating in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review the requirements around Academic Warnings in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement).
 
 We will notify you by email if you are given an Academic Warning. Additionally, a red banner will appear in your Epicenter account to indicate you currently have a project nearing the final deadline. It is possible to have multiple projects with Academic Warnings at once. We list the number of times that you have been given an Academic Warning on the Courses tab on Epicenter.
 
@@ -269,7 +269,7 @@ While there are regularly scheduled times to meet with your advisor, please don'
 
 To be counted as present, you must be in class, pairing, not late or left early.
 
-Your attendance record will appear on your transcript, which will be sent to internship companies as part of the match-making process. We want to encourage you to take days off when you need to, so if your attendance is above 90%, your transcript will say “Epicodus requires students to attend class at least 90% of the time. This student met that requirement.”
+Your attendance record will appear on your transcript, which will be sent to internship companies as part of the match-making process. We want to encourage you to take days off when you need to, so if your attendance is above 90%, your transcript will say "Epicodus requires students to attend class at least 90% of the time. This student met that requirement."
 
 #### [Signing In Late and Signing Out Early](#signing-in-late-and-signing-out-early)
 
@@ -281,7 +281,7 @@ For full-time full-stack students, if you are absent more than 5 days of class, 
 
 For part-time full-stack students or students enrolled in the 6-Week Intro to Programming Course, Sunday classes count as two days. If you are absent more than 10 days of class, a teacher will talk to you about your attendance, remind you of this policy, and send you an email. You may be expelled if you are absent more than 20 days of class, or are absent 3 days in two weeks. Staff may make an exception to this policy at their discretion. No exceptions will be granted after 30 absent days.
 
-For students enrolled in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review attendance requirements in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement). 
+For students enrolled in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review attendance requirements in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement).
 
 Your allowed absences are available for you to use for any reason. You may need to use them if you're sick, need a mental health break, or have a personal emergency. You are also welcomed to use them to work solo (without pairing with another student). If you choose to work solo, you are still welcome to attend class and ask questions of your teachers and advisors.
 
