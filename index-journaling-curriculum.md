@@ -1,7 +1,7 @@
 ---
 title: Journaling Curriculum
 id: index
-slug: /
+slug: /journaling-curriculum
 hide_table_of_contents: true
 sidebar_position: 0
 ---
