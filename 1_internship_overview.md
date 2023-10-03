@@ -10,9 +10,9 @@ Below is a general explanation and walk-through of the internship process. Exact
 
 Please refer to this general schedule of career services:
 <br />
-[Full-Time Students](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)
+[Full-Time Students](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule)
 <br />
-[Part-Time Students](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/career-services-schedule)
+[Part-Time Students](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule)
 
 Before you interact with potential internship companies, you will have class time to practice writing application materials and interviewing.
 
