@@ -25,7 +25,7 @@ Part time day-time students have an independent code review *every other* Friday
 
 The **full-time** track career services assignment schedule is available here:
 
-* **<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Assignment Schedule](/pre-work/getting-started-at-epicodus/career-services-schedule)**
+* **<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Assignment Schedule](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/career-services-schedule)**
 
 ### Part-Time Evening Career & Code Review Example Schedule
 
@@ -45,7 +45,7 @@ For career services, assignments will follow the same due date structure, and yo
 
 You can find the **part-time** career services assignment schedule here:
 
-* **<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Assignment Schedule](/pre-work/getting-started-at-epicodus/career-services-schedule)**
+* **<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Assignment Schedule](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/career-services-schedule)**
 
 ### Meeting Assignment Objectives
 
