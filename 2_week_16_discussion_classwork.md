@@ -1,4 +1,4 @@
-As discussed in the _[Journaling at Epicodus](/introduction-to-programming/git-html-and-css/homework-journaling-at-epicodus)_ lesson, each weekend you'll receive a journaling assignment in addition to your coding homework. You'll then discuss your responses with a partner at the beginning of the next class session.
+As discussed in the _[Journaling at Epicodus](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-journaling-at-epicodus)_ lesson, each weekend you'll receive a journaling assignment in addition to your coding homework. You'll then discuss your responses with a partner at the beginning of the next class session.
 
 ## Journal Response Discussion
 ---
@@ -7,7 +7,7 @@ As discussed in the _[Journaling at Epicodus](/introduction-to-programming/git-h
 
 You were asked to write responses to the following in your journal over the weekend, as detailed in the Journal #14 prompt:
 
-> * Revisit the narrative you drafted in [your response to the Journal #12 prompt](https://career-services.learnhowtoprogram.com/journaling-curriculum/journal-prompts/journal-12). Is this still the narrative you'd like to work with? If not, make any changes and record the updated version.
+> * Revisit the narrative you drafted in [your response to the Journal #12 prompt](https://new.learnhowtoprogram.com/journaling-curriculum/journal-prompts/journal-12). Is this still the narrative you'd like to work with? If not, make any changes and record the updated version.
 >
 > * Locate a job posting to use as a reference for this exercise. Browse postings on [LinkedIn](https://www.linkedin.com/jobs), [Glassdoor](https://www.glassdoor.com/index.htm), and/or [Indeed](https://www.indeed.com/l-Portland,-OR-jobs.html). Locate a position that looks similar to the type of work you may later pursue.
 >
