@@ -161,7 +161,7 @@ The only way to become a programmer is to spend a lot of time programming, and E
 
 For classwork each day, you'll be assigned a new project, and each day, you'll work with a different pair (towards the end of the program, you may work on longer projects). For homework, you'll have approximately an hour of lessons introducing you to new concepts and tools. Some  days will have lighter or heavier loads of lessons to read, depending on the week's material. You're expected to go through the lessons on your own but not to code along with them or understand them completely. If you have the time, it is recommended to code along with the homework. Likewise, there are no lectures in class — that's what the homework is for. Each weekend will also have a set of lessons that you'll need to read through before beginning work in class the following  week.
 
-For our full-stack programs, there will be a career services related curriculum that runs aside your coding assignments. For the full-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule-full-time). For the part-time full-stack program, the calendar for that can be found [here](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/career-services-schedule-part-time). There will be time set aside during class to complete these assignments.
+For our full-stack programs, there will be a career services related curriculum that runs aside your coding assignments. For the full-time full-stack program, the calendar for that can be found [here](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/career-services-schedule-full-time). For the part-time full-stack program, the calendar for that can be found [here](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/career-services-schedule-part-time). There will be time set aside during class to complete these assignments.
 
 It's crucial that you spend the time to read the lessons before class, so you and your partners can use your time together most effectively to implement those concepts. It is unfair to both your pair, and yourself, if you do not come to class prepared.
 
@@ -215,7 +215,7 @@ Epicodus staff will give an Academic Warning to a student when an assignment is 
 
 The number of times you have been given an Academic Warning is tracked in Epicenter. If you have been given three Academic Warnings, your advisor(s) and teacher(s) will meet with you to discuss your academic standing, which includes the possibility of retaking all or part of the coursework or being asked to leave the program. 
 
-For students participating in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review the requirements around Academic Warnings in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement).
+For students participating in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review the requirements around Academic Warnings in [the student handbook's section on the ISA](https://pre-work.learnhowtoprogram.com/student-handbook#income-share-agreement).
 
 We will notify you by email if you are given an Academic Warning. Additionally, a red banner will appear in your Epicenter account to indicate you currently have a project nearing the final deadline. It is possible to have multiple projects with Academic Warnings at once. We list the number of times that you have been given an Academic Warning on the Courses tab on Epicenter.
 
@@ -248,7 +248,7 @@ An important skill to develop at Epicodus is understanding other people's code. 
 
 When you do need help from a teacher, you'll find that they will ask more questions than provide answers — their goal is to help guide you to the the next step, rather than give you the solution outright. Sometimes, you may even find that if you ask two different teachers for help on the same problem, they give you two different suggestions. Although it can be frustrating at the time to not just get the answer to your problem, our alumni have always thanked us later for making them work through it. And when you come up with the answer yourself, it's much more rewarding!
 
-Before you ask for help, make sure that you have gone through the lesson on debugging for the language you're working in and [how to ask for help](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/how-to-ask-for-help) . Then, put in a help request at the help site for your class (your teacher will tell you on the first day). There are no limits on the number of questions you can ask, and there are certainly no "dumb questions", so long as you have taken the time to try to figure it out yourself.
+Before you ask for help, make sure that you have gone through the lesson on debugging for the language you're working in and [how to ask for help](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/how-to-ask-for-help) . Then, put in a help request at the help site for your class (your teacher will tell you on the first day). There are no limits on the number of questions you can ask, and there are certainly no "dumb questions", so long as you have taken the time to try to figure it out yourself.
 
 Teachers are not available outside of class hours — your problem-solving struggles should happen during class, so there should be no need to contact your teachers outside of class. Please respect their personal time by not asking them to stay after class to help you.
 
@@ -281,7 +281,7 @@ For full-time full-stack students, if you are absent more than 5 days of class, 
 
 For part-time full-stack students or students enrolled in the 6-Week Intro to Programming Course, Sunday classes count as two days. If you are absent more than 10 days of class, a teacher will talk to you about your attendance, remind you of this policy, and send you an email. You may be expelled if you are absent more than 20 days of class, or are absent 3 days in two weeks. Staff may make an exception to this policy at their discretion. No exceptions will be granted after 30 absent days.
 
-For students enrolled in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review attendance requirements in [the student handbook's section on the ISA](https://new.learnhowtoprogram.com/student-handbook#income-share-agreement).
+For students enrolled in the Income Share Agreement (ISA), you agreed to higher academic standards. If you do not meet those standards, you agreed to be removed from the ISA program. Please review attendance requirements in [the student handbook's section on the ISA](https://pre-work.learnhowtoprogram.com/student-handbook#income-share-agreement).
 
 Your allowed absences are available for you to use for any reason. You may need to use them if you're sick, need a mental health break, or have a personal emergency. You are also welcomed to use them to work solo (without pairing with another student). If you choose to work solo, you are still welcome to attend class and ask questions of your teachers and advisors.
 
@@ -418,7 +418,7 @@ Diversity, equity, and inclusion (DEI) are core parts of Epicodus's mission stat
 
 ## [Community Agreements](#community-agreements)
 
-DEI discussions can be emotionally charged and uncomfortable at times, so we have community agreements in place to guide a respectful and educational conversation, whether it's in our facilitated workshops or in casual discussions among students. You'll find this list along with some additional resources in the pre-work you received when you enrolled. You can also find [the community agreements](https://new.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/community-agreements) in the DEI track on LearnHowToProgram.com. 
+DEI discussions can be emotionally charged and uncomfortable at times, so we have community agreements in place to guide a respectful and educational conversation, whether it's in our facilitated workshops or in casual discussions among students. You'll find this list along with some additional resources in the pre-work you received when you enrolled. You can also find [the community agreements](https://dei.learnhowtoprogram.com/dei-curriculum-overview/community-agreements) in the DEI track on LearnHowToProgram.com. 
 
 ## [Class Discussions and Workshops](#class-discussions-and-workshops)
 
