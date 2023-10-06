@@ -7,10 +7,9 @@ For a full breakdown of the career services schedule, you can refer to this less
 
 Before we move any further, it’s important that we acknowledge a few inherent challenges that exist within the current hiring system
 
-1. **Bias**.
+1. **Bias**. Bias is prejudice in favor of or against one person, or group compared with another. There are *explicit* (bias expressed openly) and *implicit* (bias outside of our conscious awareness) biases that hiring managers, developers, and other industry professionals may have in the hiring process. Most often, bias negatively impacts people of color, women, trans people and gender non-conforming people, and people with disabilities (though biases are not limited to these groups). While many companies have made strides to reduce explicit and implicit bias in hiring, biases can still impact hiring decisions, even if candidates are equivalently qualified and capable. 
 2. **Applicant Tracking Software (ATS)**. ATS are often used by large companies, but also sometimes by smaller organizations to filter job applications automatically based on keywords before a real human ever sees them. Many qualified and capable candidates may be filtered out simply because the software doesn’t recognize the format of a resume or the application doesn’t meet an arbitrary threshold of skills. 
 3. **Job market competition**. There will always be competition with other candidates for entry-level roles, especially at large tech companies. The job market is constantly ebbing and flowing, so we must work with what roles are and are not available at any given time. 
-
 
 While we can acknowledge these inherent issues and do our best internally to combat bias in our own hiring practices, Epicodus is, at the end of the day, a small drop in the bucket when it comes to changing the industry-wide challenges that you may face as you enter your job search. With this in mind, our career services philosophy is that it is our responsibility to prepare you to work within the system as it exists right now. 
 
