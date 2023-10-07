@@ -1,4 +1,4 @@
-This lesson will cover a basic approach to whiteboarding. A techical interview can come in many forms and there is no one-size-fits-all approach. However, the following approach will serve you well in traditional whiteboard sessions where one or more interviewers are evaluating your ability to write code.
+This lesson will cover a basic approach to whiteboarding. A technical interview can come in many forms and there is no one-size-fits-all approach. However, the following approach will serve you well in traditional whiteboard sessions where one or more interviewers are evaluating your ability to write code.
 
 ## How and Why Do Companies Conduct Technical Interviews?
 
@@ -13,7 +13,7 @@ Next, it's typical for companies to evaluate your technical abilities. There are
 * A take-home technical problem where you have an allotted amount of time to solve the problem on your own before explaining your solution to an interviewer.
 * A pair or solo programming session where you solve a technical problem on screen instead of using a whiteboard.
 
-Technical interviews — especially whiteboard interviews — have become somewhat controversional. While they are a traditional method of evaluating technical abilities, they have several issues:
+Technical interviews — especially whiteboard interviews — have become somewhat controversial. While they are a traditional method of evaluating technical abilities, they have several issues:
 
 * **Coders typically use computers, not whiteboards, to solve problems.** We often use Stack Overflow, linters, auto-complete and other features to write code. For that reason, whiteboards often don't do a great job simulating what a person will actually be expected to do on the job.
 * **Whiteboards can be especially anxiety-inducing.** This effect can be compounded for people from underrepresented backgrounds, people with anxiety, and so on.

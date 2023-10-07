@@ -120,7 +120,7 @@ Epicodus's management may, in their sole discretion, deem your first violation m
 
 If you've witnessed or been subject to behavior from another student that violates Epicodus's Code of Conduct, please inform a staff member.
 
-We realize that you may experience a situation that makes you feel uncomfortable or unwelcome, but that isn't a clear violation of the Code of Conduct, and that you may not feel comfortable sharing with a staff member. In this type of situation, you may fill out our [anonymous complaint form](https://docs.google.com/forms/d/e/1FAIpQLSc6RW9r2A0-UOcSb-k-7nAWDjv0KVwd5gPzFWc9UzLg1irpwQ/viewform). Form submissions are sent to the Director of Opertations. This form is anonymous and the information you share cannot be used to take concrete action against a student, such as determining a Code of Conduct violation. However, Epicodus staff may use this information to inform the student of the impact of their action and ask them to be mindful of that impact in their future behavior.
+We realize that you may experience a situation that makes you feel uncomfortable or unwelcome, but that isn't a clear violation of the Code of Conduct, and that you may not feel comfortable sharing with a staff member. In this type of situation, you may fill out our [anonymous complaint form](https://docs.google.com/forms/d/e/1FAIpQLSc6RW9r2A0-UOcSb-k-7nAWDjv0KVwd5gPzFWc9UzLg1irpwQ/viewform). Form submissions are sent to the Director of Operations. This form is anonymous and the information you share cannot be used to take concrete action against a student, such as determining a Code of Conduct violation. However, Epicodus staff may use this information to inform the student of the impact of their action and ask them to be mindful of that impact in their future behavior.
 
 # [Class Structure](#class-structure)
 
@@ -365,7 +365,7 @@ Epicodus is closed for these holidays:
 
 ## [Career Services and Internship Program Structure](#career-services-and-internship-program-structure)
 
-Career coaching and internship preparation is integrated throughout the Epicodus full time program. From day one, you'll have a dedicated student advisor who will walk you through creating polished, professional, job-search ready resumes, cover letters, and your LinkedIn profile, and facillitate regular info sessions about a variety of career services topics. You'll meet with your advisor multiple times throughout the program to review these materials and have a chance to practice doing a mock interview. Towards the end of the program, you'll begin applying to jobs and preparing for the internship.
+Career coaching and internship preparation is integrated throughout the Epicodus full time program. From day one, you'll have a dedicated student advisor who will walk you through creating polished, professional, job-search ready resumes, cover letters, and your LinkedIn profile, and facilitate regular info sessions about a variety of career services topics. You'll meet with your advisor multiple times throughout the program to review these materials and have a chance to practice doing a mock interview. Towards the end of the program, you'll begin applying to jobs and preparing for the internship.
 
 When it comes to finding employment after graduation, we find that students are most successful when they take career prep assignments just as seriously as they take coding. For that reason, career materials follow the same academic policies outlined in the Assessment section of the Student Handbook. If you've passed all of your career reviews on time, you'll move on to the internship class.
 
@@ -386,7 +386,7 @@ This advisor support includes:
 * An extended timeline for finding an internship and additional one on one support from advisors until an internship or employment is found.
 * Additional one on one meetings with advisors as requested.
 * Extended job search support if needed.
-* ehind the scenes, our advising team proactively reaches out to our company contacts, and will pass any opportunities along to our students to create connections with potential internship opportunities. 
+* Behind the scenes, our advising team proactively reaches out to our company contacts, and will pass any opportunities along to our students to create connections with potential internship opportunities. 
  
 Part-time students have 10 weeks after the end of the coding curriculum to secure an internship or join a full-time internship. During this time, if you have not yet coordinated your internship, you'll check in with your advisor weekly, continue applying to jobs or internships, and work on coding projects or continued education independently to keep your skills sharp.
  
@@ -594,7 +594,7 @@ If for any reason you feel a student or staff member has violated the Code of Co
 
 ### Oregon
 
-If you have exhausted our interal grievance policy and 15 days after emailing our Director of Operations your grievance has not been resolved, you may contact the Oregon Higher Education Coordinating Commission, per the state-required language below:
+If you have exhausted our internal grievance policy and 15 days after emailing our Director of Operations your grievance has not been resolved, you may contact the Oregon Higher Education Coordinating Commission, per the state-required language below:
 
 > Students aggrieved by action of the school should attempt to resolve these problems with the appropriate school officials. Should this procedure fail students may contact:
 >

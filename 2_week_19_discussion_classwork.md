@@ -19,7 +19,7 @@ You were asked to write responses to the following in your journal over the week
 
 > * You'll spend 5 weeks interning with an actual tech company before beginning your own job search. Identify at least 3 things you can do to make the most of this experience. How can you best enable yourself to learn a ton? To gain valuable contacts in the industry? To build a network that will assist in your job search?
 
-> * Then, looking beyond the internship, what can you begin doing now to ensure success in your future job search? List anything applicable, whether small or large. (Do you need a new interview outfit? Should you study up on technologies your dream company uses? Should you further build your portfolio while working at your internship?) Make a gameplan to begin tackling these things _now_. Don't lose momentum.
+> * Then, looking beyond the internship, what can you begin doing now to ensure success in your future job search? List anything applicable, whether small or large. (Do you need a new interview outfit? Should you study up on technologies your dream company uses? Should you further build your portfolio while working at your internship?) Make a game plan to begin tackling these things _now_. Don't lose momentum.
 
 ### Discussion Questions
 

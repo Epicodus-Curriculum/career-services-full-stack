@@ -14,7 +14,7 @@ For this section we'll reflect on how the skills discussed in section 6 can be a
 
 * If you aren't sure what type of real-world position would be similar to your ideal job, that's alright! Simply browse more postings on [LinkedIn](https://www.linkedin.com/jobs), [Glassdoor](https://www.glassdoor.com/index.htm), and/or [Indeed](https://www.indeed.com/l-Portland,-OR-jobs.html) to get a clearer idea.
 
-* Look for more job postings for this same job title (or similar titles) and identify what they have in common, paying especially careful attention to the requirements that aren't directly technical (we'll explore technical qualifications later on). This could be things like _"thrives in a fast-pased environment"_, _"strategizing and collaborating with a team"_, _"meet measurable goals and requirements_", etc. Jot these down.
+* Look for more job postings for this same job title (or similar titles) and identify what they have in common, paying especially careful attention to the requirements that aren't directly technical (we'll explore technical qualifications later on). This could be things like _"thrives in a fast-paced environment"_, _"strategizing and collaborating with a team"_, _"meet measurable goals and requirements_", etc. Jot these down.
 
 * Then, using your section six journal response as a guide, list non-technical skills and experiences you _already have_ that demonstrate these requirements. Don't hesitate to record anything, or convince yourself something is too much of a "stretch" or a "long shot". Get any and all connections down on paper. We'll continue working with this information in future weeks.
 

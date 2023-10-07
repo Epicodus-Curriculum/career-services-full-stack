@@ -25,7 +25,7 @@ Here are some potential cold email situations.
 
 3. If a company doesn't have internal recruiters, which tends to be the case with smaller companies, reach out to leadership next. This can be helpful if you applied to a job at a company and don't have contact information for a person to follow up with.
 
-    Look for titles like _Director_, _Manager_, _Lead_, _CTO_, _VP_, or _Cofounder_. Also pay attention to the teams they manage. Examples include _Engineering_, _Development_, and _Design_.
+    Look for titles like _Director_, _Manager_, _Lead_, _CTO_, _VP_, or _Co-founder_. Also pay attention to the teams they manage. Examples include _Engineering_, _Development_, and _Design_.
 
 4. If the company is small, try contacting someone at the top of the company hierarchy such as the founder. For a medium-sized company (approximately 150 people), contact someone lower in the hierarchical structure like a VP. For large companies (400 or more), contact someone at the management level. Look for managers or team leads.  
 
