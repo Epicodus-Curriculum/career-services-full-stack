@@ -26,7 +26,7 @@ Do they create a product, or a service? Do they focus solely on tech, or do they
 
 * **Where to Look:** This information should be readily available on their website. But dig deeper than their tagline! For instance, a company might say they _"provide robust cloud storage solutions"_; but you need to know _way more_ than that! What specific products do they offer? How many tiers or options do they have? What else do they do? What languages do they use? If they create apps, APIs, or other tools, you can check their documentation.
 
-* **What to Ask Yourself:** Is this a product/service I'm interested in? Do I understand how it works? If not, what do I need to learn or research further to fully understand before my interview? How can I demonstrate that my skillset is capable of creating/supporting/working on these same products and services?
+* **What to Ask Yourself:** Is this a product/service I'm interested in? Do I understand how it works? If not, what do I need to learn or research further to fully understand before my interview? How can I demonstrate that my skill set is capable of creating/supporting/working on these same products and services?
 
 ### 3. Culture
 

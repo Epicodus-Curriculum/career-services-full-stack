@@ -29,7 +29,7 @@ There are many different types of requests for accommodation, so please refer to
 
 ### More About Requesting Accommodations 
 
-There are no specific timeframe requirements for employers to respond to your request for accommodations, but they should respond as soon as possible. Unnecessary delays in responding or implementing an accommodation can result in a violation of the ADA. 
+There are no specific time frame requirements for employers to respond to your request for accommodations, but they should respond as soon as possible. Unnecessary delays in responding or implementing an accommodation can result in a violation of the ADA. 
 
 If your request for accommodation is denied, try to find out why. It may be denied if the accommodation you request is considered an undue hardship for the employer. An alternative accommodation may be possible. Or, the employer may need more information in order to approve your request. You may be able to appeal their decision. 
 

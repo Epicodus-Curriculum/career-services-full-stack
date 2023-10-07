@@ -16,7 +16,7 @@ SMART goals are:
 * **Measurable:** Your goal must be quantifiable in some way. Define what it means to have successfully achieved your goal, whether this is through data you collect, a specific metric, or a final outcome.  
 * **Achievable:** Goals must be realistic in order to achieve them without losing motivation. Even large or long-term goals can be broken down into small, bite-sized chunks. 
 * **Relevant:** Goals should align with your motivation for attending Epicodus. Don’t set goals just to set them, but instead think about how each goal fits within the bigger picture.
-* **Time-bound:** Give your goal a deadline that you work towards. By setting a timeframe to achieve your goal, you can more easily determine your success, and re-evaluate your expectations for future goals if it takes longer than you expect. 
+* **Time-bound:** Give your goal a deadline that you work towards. By setting a time frame to achieve your goal, you can more easily determine your success, and re-evaluate your expectations for future goals if it takes longer than you expect. 
   
 For example, let’s take the goal “I want to pass my first code review” and turn it into a SMART goal. 
 
