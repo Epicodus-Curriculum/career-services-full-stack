@@ -8,7 +8,7 @@ This week, you will apply for 2 internships and your career advisor will check y
 
 Because students find internships through a wide variety of sources, you will have multiple options to complete your internship application assignment each week. Many students find their internships through the network they build in the tech industry, so you are **highly encouraged to branch out beyond traditional job applications.**
 
-1. Apply for a traditional job or internship posting. You can find a job or internship you'd like to apply to by following this [lesson on job boards](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/job-boards). 
+1. Apply for a traditional job or internship posting. You can find a job or internship you'd like to apply to by following this [lesson on job boards](/internship-and-job-search/applying-for-internships-and-jobs/job-boards). 
     - Please provide a link to the job posting, and the resume and cover letter that you submit.
 
 2. Cold emailing or other outreach 
@@ -23,11 +23,11 @@ Because students find internships through a wide variety of sources, you will ha
 ## Searching for Internship Opportunities 
 ---
 
-Before you write your application materials for a traditional internship posting, find one you'd like to apply for following [this lesson on job boards](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/job-boards).
+Before you write your application materials for a traditional internship posting, find one you'd like to apply for following [this lesson on job boards](/internship-and-job-search/applying-for-internships-and-jobs/job-boards).
 
-Alternatively, spend time on LinkedIn or other networking resources finding a contact at a company you might be interested in working with and craft a message using [this lesson on cold emailing and outreach.](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/expand-your-job-search-network-through-cold-emailing) 
+Alternatively, spend time on LinkedIn or other networking resources finding a contact at a company you might be interested in working with and craft a message using [this lesson on cold emailing and outreach.](/internship-and-job-search/applying-for-internships-and-jobs/expand-your-job-search-network-through-cold-emailing) 
 
-Follow-up is important after applying to an internship posting and especially important after cold outreach! Follow this lesson on [Following Up During the Job Application Process](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/following-up-during-the-job-application-process)
+Follow-up is important after applying to an internship posting and especially important after cold outreach! Follow this lesson on [Following Up During the Job Application Process](/internship-and-job-search/applying-for-internships-and-jobs/following-up-during-the-job-application-process)
 
 ## Creating Documents
 ---
@@ -39,7 +39,7 @@ Before you start writing your cover letter and resume, we want to make sure you'
 ## Application Materials
 ---
 
-Using the above method of creating Google Docs, follow this lesson on [cover letters](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/writing-your-cover-letter) and this [lesson on resumes](https://career-services.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/writing-your-resume) to create documents specific to the internship you are applying for. It is a common pitfall for students to tailor their cover letters to different employers but send the same resume over and over.
+Using the above method of creating Google Docs, follow this lesson on [cover letters](/internship-and-job-search/applying-for-internships-and-jobs/writing-your-cover-letter) and this [lesson on resumes](/internship-and-job-search/applying-for-internships-and-jobs/writing-your-resume) to create documents specific to the internship you are applying for. It is a common pitfall for students to tailor their cover letters to different employers but send the same resume over and over.
 
 Since you've already gotten feedback on a practice resume and cover letter, you should have a good idea of what to do now that you are applying for a real job or internship. However, we want you to keep getting feedback on how to improve your applications. While working on your resume and cover letter in class, ask for help from your advisor and teacher if you have any questions or want feedback. When you're done, you'll submit your application to your advisor for review.
 
