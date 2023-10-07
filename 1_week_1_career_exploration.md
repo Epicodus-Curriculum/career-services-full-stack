@@ -18,7 +18,7 @@ Once you’ve done some research on the job titles that interest you, make a lis
 8. Technical Support Engineer 
 9. Technical Account Manager 
 10. Solutions Architect
-11. Others to consider: Data Analysis, Cloud Engineering, Database Administratration, Cyber Security, Technical Writing, Site Reliability, Solutions Consultant 
+11. Others to consider: Data Analysis, Cloud Engineering, Database Administration, Cyber Security, Technical Writing, Site Reliability, Solutions Consultant 
 
 ## Career Paths and Additional Skills 
 
@@ -108,7 +108,7 @@ Solutions Architects are responsible for creating the roadmap for a technical so
 * [Recommended Skills and Typical Scope](https://www.leanix.net/en/wiki/ea/solution-architect)
 * [Salary Trends](https://www.zippia.com/solutions-architect-jobs/salary/)
 
-### Other roles to explore: Data Analysis, Cloud Engineering, Database Administratration, Cyber Security, Technical Writing, Site Reliability, Solutions Consultant 
+### Other roles to explore: Data Analysis, Cloud Engineering, Database Administration, Cyber Security, Technical Writing, Site Reliability, Solutions Consultant  
 
 As we have just explored, there are many different career paths for people with skills in coding and web development. Now that you have a basic grasp of the ten roles we outlined above, we encourage you to take it a step further and do your own research on these additional roles. Once you have done your background research, come up with a short list of job titles you are interested in pursuing. Hold onto this list, as we’ll be using it again when you create your professional development plan. 
 

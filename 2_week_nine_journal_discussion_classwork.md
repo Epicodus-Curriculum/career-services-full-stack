@@ -23,4 +23,4 @@ Discuss what you recorded in your journal with your partner.
 
 * Discuss what pre-Epicodus experience you each have that could apply to this type of work.
 
-* Offer feedback on the narrative connections that are beginning to form. For instance, did your partner say they _might_ be interested in project management work? And that they used to work as a wildlands firefighter? Don't you think the high-pressure work environment of firefighting that requires people remain flexible, pivot quickly, and maintain great organization and communication with a team translates to managing a big, high-stakes tech project too? _Hmm..._
+* Offer feedback on the narrative connections that are beginning to form. For instance, did your partner say they _might_ be interested in project management work? And that they used to work as a wildland firefighter? Don't you think the high-pressure work environment of firefighting that requires people remain flexible, pivot quickly, and maintain great organization and communication with a team translates to managing a big, high-stakes tech project too? _Hmm..._

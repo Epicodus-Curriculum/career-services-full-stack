@@ -52,7 +52,7 @@ Though originally used in business analysis, a personal SWOT analysis is a metho
 
 **Strengths:** Strengths are internal factors that give you an edge over your competitors. These are the positive skills, qualifications, experiences, connections, and resources you have available to you as you enter the tech field. 
 
-**Weaknesses:** Weaknesses are internal factors that put you at a disadvantage to your competitors. This could be a missing skillset, lack of access to certain resources, a way that you could improve and grow, etc. 
+**Weaknesses:** Weaknesses are internal factors that put you at a disadvantage to your competitors. This could be a missing skill set, lack of access to certain resources, a way that you could improve and grow, etc. 
 
 **Opportunities:** Opportunities are external factors that will come your way in your job search. A networking connection at a company with an open junior developer role, a job fair in your city, or an open course or project that you participate in are all examples of opportunities that you can take advantage of. 
 
@@ -103,7 +103,7 @@ Now that we have an idea of your internal strengths and weaknesses, we can focus
 * Is there an open source project you can get involved in? 
 * Are you following relevant people and companies you might want to work with on LinkedIn, email, newsletter, or other avenues? 
 
-It’s always great when an opportunity aligns closely with your strengths, but some opportunities might arise that don’t directly align with your skillset. Before you disregard them, consider the pros and cons, and see if there are any skills you could gain to better align with the opportunity.
+It’s always great when an opportunity aligns closely with your strengths, but some opportunities might arise that don’t directly align with your skill set. Before you disregard them, consider the pros and cons, and see if there are any skills you could gain to better align with the opportunity.
 
 ### Step 4: Understand Threats 
 
