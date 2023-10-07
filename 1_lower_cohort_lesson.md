@@ -2,6 +2,6 @@ This coming week's lunch speakers will be your classmates in the upper cohort. T
 
 The talk will include time for up to 8 students to share their experiences (~5 minutes per person) as well as ~20 minutes for questions at the end. While each student ultimately decides what they will talk about, you are welcome to pick their brains on any related subject. Take some time now to think of questions that you would like to ask.
 
-In ten more weeks, once you are a member of the upper cohort, you will have the opportunity to volunteer to be a lunch speaker for the _next_ cohort. If you might be interested and would like more information, see the following [lesson](/c-and-net/authentication-with-identity/taking-part-in-mentorship-lunch-talks).
+In ten more weeks, once you are a member of the upper cohort, you will have the opportunity to volunteer to be a lunch speaker for the _next_ cohort. If you might be interested and would like more information, see the following [lesson](/c-and-net/authentication-with-identity-part-2/taking-part-in-mentorship-lunch-talks).
 
 Instructors will share exact details about the timing of the lunch speaker during your Cohort Scrum meeting.
