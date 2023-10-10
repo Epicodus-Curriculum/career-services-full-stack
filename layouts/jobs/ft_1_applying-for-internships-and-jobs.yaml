@@ -75,10 +75,6 @@ lessons:
     filename: job_app_goals.md
     day: tuesday
     type: lesson
-  - title: Epicodus Job Board
-    filename: 5_job_boards.md
-    day: wednesday
-    type: lesson
   - title: Following Up During the Job Application Process
     filename: 6_Follow-Up_During_the_Job_Application_Process.md
     day: wednesday
