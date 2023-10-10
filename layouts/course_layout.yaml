@@ -17,6 +17,18 @@ code_reviews:
     submissions_not_required: false
     always_visible: true
   details:
+    - title: 'Goals, Career Exploration, & Skills'
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/goals_career_exploration_and_skills.md
+      objectives:
+      - "Did you create at least one SMART goal?" 
+      - "Did you compile a short list of job titles you are interested in, and at least three additional skills you will need to develop to pursue each job title?"
+      - "Did you create a word cloud or list of key skills?"  
+      - "Did you complete a personal SWOT skills analysis with at least two strengths, weaknesses, opportunities and threats listed for each category?" 
+      - "Is your assignment saved as a Google Doc and the link shared below (click 'share' button in top right corner of Google Docs)?"  
+    - title: 'Telling Your Story'
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/telling_your_story.md
+      objectives:
+      - "Is your Telling Your Story assignment complete, saved as a Google Doc, and the link shared below (click 'share' button in top right corner of Google Docs)?"
     - title: LinkedIn Review
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/linkedin_review.md
       objectives:
