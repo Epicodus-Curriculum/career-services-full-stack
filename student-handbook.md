@@ -574,7 +574,7 @@ The Director of Curriculum periodically reviews and addresses the feedback you l
 We encourage you to communicate directly with our staff if you have any concerns at all. You're always welcome to email or have a conversation with your teacher, advisor, or any other staff member, and we will keep that communication confidential to our staff. If you are bringing up a negative experience you had with another student, we will ask you how you want us to address it and will ask permission before involving anybody else.
 
 *   If you have any concerns about your classwork, curriculum, or another student, please reach out to your instructor.
-*   If you have concerns about the teaching staff, the teaching department, or curriculum, please email the Director of Teaching, cathy@epicodus.com.
+*   If you have concerns about the teaching staff, the teaching department, or curriculum, please email the Director of Teaching and Curriculum, erik@epicodus.com.
 *   If you have concerns about advisors or the advising department, please email the Director of Student Services, nina@epicodus.com.
 *   If you have any concerns about our Diversity, Equity, and Inclusion (DEI) policies, DEI curriculum, or concerns about any Director at Epicodus, please email the Director of Operations, rachel@epicodus.com.
 
