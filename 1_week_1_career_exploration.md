@@ -27,8 +27,8 @@ Once you’ve done some research on the job titles that interest you, make a lis
 After finishing Epicodus, you will be well-equipped to find a job in a Front-End Developer role. Many of our graduates start here. If you want to specialize in Front End development, the following skills can boost your resume.
 
 * [Recommended Skills](https://www.interviewbit.com/blog/front-end-developer-skills/)
-* [Typical Responsibilities and Scope](https://resources.workable.com/front-end-developer-job-description#:~:text=A%20Front%2DEnd%20Developer%20is,good%20Front%20End%20Web%20Developer%3F)
-* [Salary Trends ](https://www.zippia.com/front-end-developer-jobs/salary/https://www.zippia.com/front-end-developer-jobs/salary/)
+* [Typical Responsibilities and Scope](https://resources.workable.com/front-end-developer-job-description)
+* [Salary Trends ](https://www.zippia.com/front-end-developer-jobs/salary)
  
 ### UI Developer:
 
