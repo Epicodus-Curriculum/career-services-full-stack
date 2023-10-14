@@ -1,12 +1,12 @@
 ---
-title: Internship and Job Search
+title: Career Services
 id: index
-slug: /internship-and-job-search
+slug: /career-services
 hide_table_of_contents: true
 sidebar_position: 0
 ---
 
-Welcome to the Internship and Job Search Home Page.
+Welcome to the Career Services Home Page.
 
 Epicodus offers a comprehensive career services curriculum you’ll go through while you’re learning to code to make sure you’re set up for success after you graduate. In this course, you can check out what to expect throughout the program. 
 
