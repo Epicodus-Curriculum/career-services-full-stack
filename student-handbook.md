@@ -171,7 +171,7 @@ At the end of most weeks, you'll work alone on an independent project that will 
 
 For the full-time programs, you'll have all day Friday to complete your individual project from home. You are expected to work between 8am and 5pm PST, unless you get pre-approval from an instructor to work during different hours. Initial submissions for assignments are due on Fridays at 5 pm.
 
-For the part-time programs, you will have all weekend to complete your individual project. You are expected to work a minimum of four hours on this project. Initial submissions for assignments are due on Sundays at 9 am.
+For the part-time programs, you will have all weekend to complete your individual project. You are expected to work a minimum of eight hours on this project. Initial submissions for assignments are due on Mondays at 8 am.
 
 The following week, your teacher will give you feedback on your project either in person, on a video call, or in writing. Every outstanding project gets one review each week.
 
