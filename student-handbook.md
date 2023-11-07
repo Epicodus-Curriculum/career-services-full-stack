@@ -1,6 +1,6 @@
-_Below is our student handbook. Please read it thoroughly before your first day of class, and review regularly throughout the program, and as need arises._
-
 # Student Handbook
+
+_Below is our student handbook. Please read it thoroughly before your first day of class, and review regularly throughout the program, and as need arises._
 
 * * *
 
