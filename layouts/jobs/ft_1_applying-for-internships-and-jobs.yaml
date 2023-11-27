@@ -32,7 +32,27 @@ lessons:
     day: weekend
     type: exercise
   - title: LinkedIn Profiles
+    filename: 3_linkedin_classwork_new.md
+    day: weekend
+    type: exercise
+  - title: Indeed Resume
+    filename: 3_indeed_resume_classwork_new.md
+    day: weekend
+    type: exercise
+  - title: Leveraging LinkedIn
+    filename: 3_leveraging_linkedin.md
+    day: weekend
+    type: exercise
+  - title: 'LinkedIn Profiles (pre-October)'
     filename: 3_linkedin_classwork.md
+    day: weekend
+    type: exercise
+  - title: Resume Overview
+    filename: 3_resume_overview.md
+    day: weekend
+    type: exercise
+  - title: Writing Your Resume
+    filename: 3_writing_your_resume.md
     day: weekend
     type: exercise
   - title: After Your Internship
@@ -47,7 +67,7 @@ lessons:
     filename: 5_job_boards.md
     day: monday
     type: lesson
-  - title: Writing Cover Letters and Resumes
+  - title: 'Writing Cover Letters and Resumes (pre-October)'
     filename: 0_writing_cover_letters_and_resumes.md
     day: monday
     type: lesson
