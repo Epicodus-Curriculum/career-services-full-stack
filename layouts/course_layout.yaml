@@ -55,7 +55,6 @@ code_reviews:
       - "Did you create a word cloud or list of key skills?"  
       - "Did you complete a personal SWOT skills analysis with at least two strengths, weaknesses, opportunities and threats listed for each category?"
       - "Is your assignment saved as a Google Doc and the link shared below (click 'share' button in top right corner of Google Docs)?"  
-
     - title: Mock Interview
       submissions_not_required: true
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/mock_interview.md
