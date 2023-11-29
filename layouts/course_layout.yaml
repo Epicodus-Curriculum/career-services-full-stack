@@ -50,11 +50,29 @@ code_reviews:
     - title: 'LinkedIn and Indeed Resume'
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/linkedin_and_indeed.md
       objectives:
-      - "Did you create at least one SMART goal?" 
-      - "Did you compile a short list of job titles you are interested in, and at least three additional skills you will need to develop to pursue each job title?"
-      - "Did you create a word cloud or list of key skills?"  
-      - "Did you complete a personal SWOT skills analysis with at least two strengths, weaknesses, opportunities and threats listed for each category?"
-      - "Is your assignment saved as a Google Doc and the link shared below (click 'share' button in top right corner of Google Docs)?"  
+      - "LinkedIn: Does your profile include a recent, appropriate photo of you?"
+      - "LinkedIn: Does your tagline reflect what you are doing now?"
+      - "LinkedIn: Does your summary describe what you were doing before Epicodus, what skills you bring from that work, and what skills you're learning at Epicodus?"
+      - "LinkedIn: Do you list your previous jobs and/or volunteer experience?"
+      - "LinkedIn: Are your descriptions of your previous jobs specific and succinct with concrete numbers and examples? Like, 'Retained a high attention to detail while filling over 40 orders each hour.'"
+      - "LinkedIn: Has Epicodus been added to your Education section?"
+      - "LinkedIn: Does it contain succinct information about what you are learning and doing at Epicodus? Does it highlight accomplishments and best practices you've learned?"
+      - "LinkedIn: Does your Projects section have 1-3 projects with links to the Github code or links to the live site?"
+      - "LinkedIn: Is there a description of what each project does and what technologies were used to create them?"
+      - "LinkedIn: Do your pinned Github repos reflect your best work, and have well fleshed-out READMEs?"
+      - "LinkedIn: Is your Github profile (and optionally your website) or added as 'Featured'?"
+      - "LinkedIn: Are relevant skills like: HTML, CSS, JavaScript, jQuery, Ruby, SQL, Ruby on Rails, AJAX, Git, Agile, TDD, Pair programming listed in the Skills section?"
+      - "LinkedIn: Do you have a link to your LinkedIn page with a friendly URL? For example: linkedin.com/in/audreyscrugham."
+      - "LinkedIn: Did you put the link to your LinkedIn page in the submit box of this code review?"
+      - "LinkedIn: Is your LinkedIn profile otherwise polished and presentable?"
+      - "Indeed: Do you include a brief summary that communicates your career transition and goals?"
+      - "Indeed: Do you have a skills section that lists relevant technical and non-technical skills?"
+      - "Indeed: Do you have a link to your GitHub and your LinkedIn in the links section?"
+      - "Indeed: Do you list your previous jobs and/or volunteer experience?"
+      - "Indeed: Are descriptions of your previous jobs relevant and succinct with concrete numbers and examples? Like, 'Retained a high attention to detail while filling over 40 orders each hour.'"
+      - "Indeed: Does your Publications section have 1-3 projects with links to the Github code or links to the live site?"
+      - "Indeed: Has Epicodus been added to your Education section?"
+      - "Indeed: Did you submit your Indeed resume link to this code review?"
     - title: Mock Interview
       submissions_not_required: true
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/career-services/mock_interview.md
