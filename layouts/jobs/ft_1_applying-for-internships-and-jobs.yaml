@@ -47,6 +47,14 @@ lessons:
     filename: 3_linkedin_classwork.md
     day: weekend
     type: exercise
+  - title: Portfolio Update and Personal Brand
+    filename: portfolio_update_and_personal_brand.md
+    day: weekend
+    type: exercise
+  - title: Writing Your Cover Letter
+    filename: writing_your_cover_letter.md
+    day: weekend
+    type: exercise
   - title: Resume Overview
     filename: 3_resume_overview.md
     day: weekend
