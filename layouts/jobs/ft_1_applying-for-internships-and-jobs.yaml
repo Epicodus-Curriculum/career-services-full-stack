@@ -93,7 +93,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Job Boards
-    filename: job_boards_updated.md
+    filename: job_board_updated.md
     day: weekend
     type: lesson
   - title: Applying to Jobs 1 through 4
