@@ -141,6 +141,16 @@ lessons:
     filename: resume_and_cover_letter_review.md
     day: monday
     type: lesson
+    # 
+  - title: Updating Your Portfolio
+    filename: updating_your_portfolio.md
+    day: weekend
+    type: lesson
+  - title: Applying For Jobs
+    filename: applying_to_jobs_new.md
+    day: weekend
+    type: lesson
+    # 
   - title: Continuing to Code
     filename: continuing_to_code.md
     day: tuesday
